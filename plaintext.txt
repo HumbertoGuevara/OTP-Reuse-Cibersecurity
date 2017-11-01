@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title> Department of Computer Science | The University of New Mexico</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="" name="description"/>
+<meta content="" name="author"/><!-- Le styles -->
+<link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="assets/css/styles.css" rel="stylesheet"/><!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<!-- Fav and touch icons -->
+<link href="assets/ico/favicon.ico" rel="shortcut icon"/>
+<link href="assets/ico/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114"/><link href="assets/ico/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72"/><link href="assets/ico/apple-touch-icon-57x57-precomposed.png" rel="apple-touch-icon-precomposed"/>
+<script src="assets/js/jquery.min.js" type="text/javascript"></script>
+
+</head>
+<body>
+<div class="navbar navbar-inverse" id="unmbar">
+<div class="navbar-inner">
+<div class="container"><a class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></a> <a class="brand" href="#">The University of New Mexico</a> 
+<div class="nav-collapse" id="toolbar-nav">
+<form action="http://google.unm.edu/search" class="navbar-search pull-right" id="unm_search_form" method="get">
+<div class="input-append search-query"><input name="site" type="hidden" value="UNM"/> <input name="client" type="hidden" value="UNM"/> <input name="proxystylesheet" type="hidden" value="UNM"/> <input name="output" type="hidden" value="xml_no_dtd"/> <input accesskey="4" alt="input search query here" class="span2" id="unm_search_form_q" maxlength="255" name="q" placeholder="Search UNM&#8230;" title="input search query here" type="text"/> <button accesskey="s" alt="search now" class="btn" id="unm_search_for_submit" name="submit" type="submit"><span class="icon-search"></span></button></div>
+</form>
+<ul class="nav pull-right">
+<li><a href="http://www.unm.edu/depart.html" title="UNM A to Z">UNM A-Z</a></li>
+<li><a href="http://studentinfo.unm.edu" title="StudentInfo">StudentInfo</a></li>
+<li><a href="http://fastinfo.unm.edu" title="FastInfo">FastInfo</a></li>
+<li><a href="https://my.unm.edu" title="myUNM">myUNM</a></li>
+<li><a href="http://directory.unm.edu" title="Directory">Directory</a></li>
+</ul>
+</div>
+<!--/.nav-collapse -->
+</div>
+</div>
+</div>
+<div id="header">
+<div class="container"><a href="http://www.cs.unm.edu/index.html"><img alt="" height="110" src="news/images/new-cs-logo.png" width="500"/></a><br/>
+<ul class="nav nav-pills pull-right" id="dept-quick-nav">
+<li><a href="/support/index">Support</a></li>
+<li><a href="news/index.html">News</a></li>
+<li><a href="directory/index.html">Find People</a></li>
+<li><a href="contact/index.html">Contact Us</a></li>
+<li><a href="contact/map-directions.html">Location</a></li>
+</ul>
+<form action="search.html" class="navbar-search pull-right" id="soe-search" method="get">
+<div class="search-query"><input alt="input search query here" class="search-query" id="soe-search_q" maxlength="255" name="q" placeholder="Search CS" size="22" title="search query" type="text" value=""/> <button alt="Search Engineering" class="btn btn-mini btn-danger" id="soe-search_submit" name="submit" type="submit">Search</button></div>
+</form></div>
+</div>
+<p><!-- Top Navigation Bar --></p>
+<div class="container" id="soe-nav-container">
+<div class="row" id="soe-nav">
+<ul class="nav">
+<li class="span3 dropdown"><a data-toggle="dropdown" href="http://www.cs.unm.edu/about/index.html" target="_blank">About CS</a>
+<ul class="dropdown-menu">
+<li><a href="http://www.cs.unm.edu/about/index.html" target="_blank">About the Department</a></li>
+<li><a href="about/research-areas/index.html">Research Areas</a></li>
+<li><a href="computer-facilities-/description-of-facilities.html">Computer Facilities</a></li>
+<li><a href="about/department-scholarships.html">Department Scholarships</a></li>
+<li><a href="employment/index.html">Employment Opportunities</a></li>
+<li><a href="life-in-abq.html">Living in New Mexico</a></li>
+<li><a href="around-abq.html" target="_blank">Around Albuquerque</a></li>
+</ul>
+</li>
+<li class="span3 dropdown"><a href="programs-and-degrees/undergraduate-accreditation-abet.html">Accreditation</a></li>
+<li class="span3 dropdown"><a data-toggle="dropdown" href="programs-and-degrees/index.html">Programs &amp; Degrees</a>
+<ul class="dropdown-menu">
+<li><a href="programs-and-degrees/bachelors/index.html">Bachelor's Degree</a></li>
+<li><a href="programs-and-degrees/shared/index.html">B.S./M.S. Shared-Credit Degree Program</a></li>
+<li><a href="programs-and-degrees/masters/index.html">Master's Degree</a></li>
+<li><a href="programs-and-degrees/ph.d./index.html">Ph.D. Degree</a></li>
+<li><a href="programs-and-degrees/undergraduate-accreditation-abet.html">Undergraduate Accreditation (ABET)</a></li>
+<li><a href="programs-and-degrees/courses.html">Courses</a></li>
+<li><a href="programs-and-degrees/index.html">Prospective Undergraduate Students</a></li>
+<li><a href="programs-and-degrees/graduate.html">Prospective Graduate Students</a></li>
+</ul>
+</li>
+<li class="span3 dropdown"><a data-toggle="dropdown" href="research/index.html">Research</a>
+<ul class="dropdown-menu">
+<li><a href="research/index.html">CS Research</a></li>
+<li><a href="research/scalable-distributed-systems.html">Scalable Distributed Systems</a></li>
+<li><a href="research/fault-tolerance-and-robustness.html">Fault Tolerance and Robustness</a></li>
+<li><a href="research/big-data--big-computations.html">Big Data &amp; Big Computations</a></li>
+<li><a href="directory/by-area.html">Faculty By Research Area</a></li>
+</ul>
+</li>
+<li class="span3 dropdown"><a data-toggle="dropdown" href="students/index.html">Students</a>
+<ul class="dropdown-menu">
+<li><a href="admissions/index.html">Admissions</a></li>
+<li><a href="admissions/financial-aid.html" style="font-size: 1em; line-height: 1.5em;">Financial Aid</a></li>
+<li><a href="students/help-advisement.html">Advisement &amp; Help</a></li>
+<li><a href="http://www.cs.unm.edu/employment/index.html" target="_blank">Jobs/Internships</a></li>
+<li><a href="students/organizations.html">Organizations</a></li>
+<li><a href="about/department-scholarships.html">Scholarships</a></li>
+<li><a href="students/peer-tutoring-program.html">Peer Tutoring Program</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<!--
+<div id="soe-nav-container" class="container">
+<div id="soe-nav" class="row">
+<ul class="nav">
+<li class="span3 active"><a href="/about-engineering/index">About UNM Engineering</a></li>
+<li class="span3"><a href="/research/index">Research</a></li>
+<li class="span3"><a href="/programs-and-degrees/index">Programs &amp; Degrees</a></li>
+<li class="span3"><a href="/admissions/index">Admissions</a></li>
+</ul>
+</div>
+</div>
+-->
+<div class="container" id="page"><!-- Main hero unit for a primary marketing message or call to action -->
+<script src="https://webcore.unm.edu/v1/javascript/flexslider/jquery.flexslider-min.js" type="text/javascript"></script><script type="text/javascript">
+                $(function () {
+                    $('.flexslider').flexslider({
+                        animation: "slide",
+                        selector: ".slides  .slide",
+                        pauseOnHover: false,
+                        controlNav: true,
+                        directionNav: true,
+                        direction: "horizontal",
+                        slideshowSpeed: 12000,
+                        randomize: false,
+                        pausePlay: false
+                    });
+                });  
+</script><link href="assets/css/flexslider.css" media="screen" rel="stylesheet" type="text/css"/><div class="flexslider"><div class="slides"><div class="slide"><a href="http://newweb.cs.unm.edu/students/help-advisement.html"><img alt="" src="news/images/cs-advisement.png"/></a><div class="flex-caption flex-caption-top"><h2>Spring, Summer 2018 advisement open<br/><small/></h2></div></div><div class="slide"><a href="http://www.cs.unm.edu/employment/index.html"><img alt="" src="news/images/computer-science-jobs.png"/></a><div class="flex-caption flex-caption-right"><h2>Job/internship opportunities in Computer Science<br/><small>Looking for opportunities in computer science? </small></h2></div></div><div class="slide"><a href="http://engineering.unm.edu/news/2017/09/tapia-receives-international-award-for-computing-research.html"><img alt="" src="news/images/tapia-award.png"/></a><div class="flex-caption flex-caption-bottom"><h2>Tapia receives international award <br/><small>CS associate professor Lydia Tapia awarded Borg Early Career Award</small></h2></div></div><div class="slide"><a href="http://www.cs.unm.edu/featured-students/"><img alt="" src="news/images/research.png"/></a><div class="flex-caption flex-caption-bottom"><h2>Who's who in CS<br/><small>Featured CS students</small></h2></div></div><div class="slide"><a href="https://www.abqjournal.com/989912/nm-robots-ready-to-rumble-at-nasa-competition.html"><img alt="" src="news/images/robots.jpg"/></a><div class="flex-caption flex-caption-top"><h2>NM robots at NASA competition<br/><small>If humans one day colonize Mars, UNM may play small part.</small></h2></div></div><div class="slide"><a href="http://news.unm.edu/news/unm-computer-science-professor-co-authors-timely-article-on-dealing-with-cyber-conflict"><img alt="" src="news/images/cyber-conflict.jpg"/></a><div class="flex-caption flex-caption-left"><h2>Professor co-authors cyber conflict article<br/><small>Game-theoretic model combines strategic, technical aspects of cyber attribution</small></h2></div></div><div class="slide"><a href="https://www.youtube.com/watch?v=mPWLdDGRcaM"><img alt="" src="news/images/swarm-robots.jpg"/></a><div class="flex-caption flex-caption-top"><h2>Space Exploration: Taken by Swarm<br/><small>Students participate in the NASA Swarmathon robotics competition (Click the Banner)   </small></h2></div></div></div></div> 
+
+<!-- Main Content Area --> 
+<div class="row" id="main">
+<div class="span3"><div id="sidebar-nav"></div>   </div>
+<div class="span9">      </div>
+</div>
+<!-- Callouts -->
+<div class="row" id="callouts"><div class="callout span6" id="featured-students"><h2>Student Highlights</h2><div class="carousel slide" id="myCarousel"><div class="carousel-inner"><div class="item active"><div class="media"><h3 class="media-heading"><a href="featured-students/samuel-gutierrez.html">Samuel Gutierrez</a></h3><a class="pull-left" href="featured-students/samuel-gutierrez.html"><img alt="Samuel Gutierrez" class="media-object" src="common/images/featured-students/sam-gutierrez.jpg"/></a><div class="media-body"><p>Samuel Gutierrez is a scientist working at Los Alamos National Laboratory (LANL) and at the same time getting his Ph.D. in Computer Science from the University of New Mexico. His dissertation will co&#8230;</p></div></div></div><div class="item"><div class="media"><h3 class="media-heading"><a href="featured-students/hooman-rokham.html">Hooman Rokham</a></h3><a class="pull-left" href="featured-students/hooman-rokham.html"><img alt="Hooman Rokham" class="media-object" src="featured-students/hooman-rokham.jpg"/></a><div class="media-body"><p>Hooman Rokham is currently pursuing his Ph.D. in the University of New Mexico Department of Computer Science, concentrating on cyber security and machine learning. He is currently working with Patric&#8230;</p></div></div></div><div class="item"><div class="media"><h3 class="media-heading"><a href="featured-students/dewan-ibtesham.html">Dewan Ibtesham</a></h3><a class="pull-left" href="featured-students/dewan-ibtesham.html"><img alt="Dewan Ibtesham" class="media-object" src="common/images/featured-students/dewanibtesham.png"/></a><div class="media-body"><p>Dewan Ibtesham received his PhD in Computer Science at the UNM School of Engineering Spring 2017 convocation. He is now a software development engineer at Amazon in Seattle.&#8230;</p></div></div></div><div class="item"><div class="media"><h3 class="media-heading"><a href="featured-students/ben-mixon-baca.html">Ben Mixon-Baca</a></h3><a class="pull-left" href="featured-students/ben-mixon-baca.html"><img alt="Ben Mixon-Baca" class="media-object" src="featured-students/ben-mixon-baca.jpg"/></a><div class="media-body"><p>With cyber security and threats often in the news, UNM Computer Science Ph.D. student Ben Mixon-Baca has become a go-to expert for local media as they cover stories about these high-tech issues. In t&#8230;</p></div></div></div></div><div class="controls"><a data-slide="prev" href="#myCarousel"><i class="icon-chevron-left">prev</i></a><a data-slide="next" href="#myCarousel"><i class="icon-chevron-right">next</i></a></div></div></div><div class="callout span3"><h2>Admissions &amp; Financial Aid</h2><p class="title"><ul>
+<li><a href="admissions/undergraduate-admissions.html">Undergraduate Admissions</a></li>
+<li><a href="admissions/graduate-admissions.html">Graduate Admissions</a></li>
+<li><a href="admissions/international-graduate-admissions.html">International Graduate Admissions</a></li>
+<li><a href="admissions/financial-aid.html">Financial Aid</a></li>
+</ul></p><p><a class="learn-more" href=""></a></p></div><div class="callout span3"><h2>Faculty &amp; Staff Directory</h2><p class="title"><ul>
+<li><a href="directory/index.html">Faculty Directory</a></li>
+<li><a href="directory/staff-profiles/index.html">Staff Directory</a></li>
+<li><a href="directory/graduate-profiles/index1.html">Graduate Directory</a></li>
+<li><a href="directory/by-area.html">Faculty Research Interests&#160;&#160;</a></li>
+</ul></p><p><a class="learn-more" href=""></a></p></div><div class="callout span3"><h2>Useful Links</h2><p class="title"><ul>
+<li><a href="news/index.html">News &amp; Colloquium Archive</a></li>
+<li><a href="http://www.cs.unm.edu/contact/index.html" target="_blank">Contact us</a></li>
+<li><a href="students/help-advisement.html">Contact an Advisor</a></li>
+<li><a href="http://www.cs.unm.edu/employment/index.html" target="_blank">Jobs/Internships</a></li>
+<li><a href="contact/map-directions.html">Map &amp; Directions</a></li>
+<li><a href="http://www.cs.unm.edu/contact/parking.html" target="_blank">Parking</a></li>
+<li><a href="contact/index.html">Schedule a Visit</a></li>
+<li><a href="http://www.cs.unm.edu/life-in-abq.html" target="_blank">Living in Albuquerque and New Mexico</a></li>
+<li><a href="computer-facilities-/index.html">Computer Facilities</a></li>
+</ul></p><p><a class="learn-more" href=""></a></p></div></div><script>
+            
+            $(function(){
+                $('.carousel').carousel({
+                    interval: 7500
+                 });
+            });
+            
+        </script> <!-- Slogan Bar -->
+  <!-- News and Events -->
+ 
+<div class="row"><div class="span6" id="news"><h2>Recent News</h2><div class="media"><a class="pull-left" href=""><img alt="" class="media-object" src="http://www.cs.unm.edu/news/2017/10/snl-coding-challenge.png" width="75"/></a><div class="media-body"><p><strong><a href="news/2017/10/sandia-labs-coding-challenge.html">Sandia Labs coding challenge!</a></strong><br/>October 30, 2017<br/>UNMCS challenge prep Friday<a href="news/2017/10/sandia-labs-coding-challenge.html"> Read More...</a></p></div></div><div class="media"><a class="pull-left" href=""><img alt="" class="media-object" src="news/2017/10/snl-coding-challenge.png" width="75"/></a><div class="media-body"><p><strong><a href="news/2017/10/prepare-for-sandia-labs-coding-challenge1.html">Prepare for Sandia Labs coding challenge!</a></strong><br/>October 30, 2017<br/>Coding challenge Nov. 11, UNMCS hosts prep Friday, Nov. 3<a href="news/2017/10/prepare-for-sandia-labs-coding-challenge1.html"> Read More...</a></p></div></div><div class="media"><a class="pull-left" href=""><img alt="" class="media-object" src="news/2017/10/atom-visual.png" width="75"/></a><div class="media-body"><p><strong><a href="news/2017/10/unm-student-creates-atom-visualization-app.html">UNM student creates atom visualization app</a></strong><br/>October 16, 2017<br/>Smartphone app can visualize the structure of atoms<a href="news/2017/10/unm-student-creates-atom-visualization-app.html"> Read More...</a></p></div></div><div><a class="pull-right" href="news/index.html">Read More News</a></div></div> <div class="span6" id="calendar"><h2>Calendar</h2><div class="pull-right minical"><button class="btn" id="support-engineering" type="button">Support UNM Engineering</button></div><div class="media"><a class="pull-left" href="https://unmevents.unm.edu/site/soe/event/2017-distinguished-alumni-awards/"><img alt="DAA promo.JPG" class="media-object" src="https://calendarmedia.blob.core.windows.net/assets/56340570-ef20-417c-8b14-93384b8a5519-thumb.JPG"/></a><div class="media-block"><p><strong><a class="highlighted" href="https://unmevents.unm.edu/site/soe/event/2017-distinguished-alumni-awards/">2017 Distinguished Alumni Awards</a></strong><br/><time class="date small" datetime="2017-11-02T17:30:00">Nov 2, 2017 - 5:30 PM</time><br/></p></div></div><div class="media"><div class="media-block"><p><strong><a class="highlighted" href="https://unmevents.unm.edu/site/soe/event/science-on-tap--dark-matter-origins-evidence-and-why-you-should-care/">Science on Tap • Dark Matter: Origins, Evidence, and Why You Should Care</a></strong><br/><time class="date small" datetime="2017-11-02T17:30:00">Nov 2, 2017 - 5:30 PM</time><br/></p></div></div><div class="media"><div class="media-block"><p><strong><a class="highlighted" href="https://unmevents.unm.edu/site/soe/event/sand-eon-han--unm--cbe-seminar/">Sang Eon Han • UNM • CBE Seminar</a></strong><br/><time class="date small" datetime="2017-11-08T16:00:00">Nov 8, 2017 - 4:00 PM</time><br/></p></div></div><div class="media"><a class="pull-left" href="https://unmevents.unm.edu/site/soe/event/fall-2017-school-of-engineering-convocation/"><img alt="Grads.jpg" class="media-object" src="https://calendarmedia.blob.core.windows.net/assets/d51dd1e9-d568-4c51-9b93-5ca6ba9c9d4b-thumb.jpg"/></a><div class="media-block"><p><strong><a class="highlighted" href="https://unmevents.unm.edu/site/soe/event/fall-2017-school-of-engineering-convocation/">Fall 2017 School of Engineering Convocation</a></strong><br/><time class="date small" datetime="2017-12-16T10:00:00">Dec 16, 2017 - 10:00 AM</time><br/></p></div></div><div><a class="pull-right" href="https://unmevents.unm.edu//site/soe/">See More Events</a></div></div></div>
+</div>
+<!-- Lower Navigation -->
+<div id="lowernav">
+<div class="container"></div>
+</div>
+<!-- Second Footer -->
+<div id="pagefooter">
+<div class="container"><div class="row">
+<div class="span3">
+<h2>Contact Info:</h2>
+<p><a href="tel:5052773112"> (505) 277-3112 (phone)<br/> </a><a href="tel:5052776927">(505) 277-6927 (fax)</a></p>
+<p><strong>Web site questions:&#160;<br/> </strong><a href="mailto:web_support@cs.unm.edu">web_support@cs.unm.edu</a></p>
+<p><strong> technical help: </strong> <br/> <a href="mailto:cssupport@cs.unm.edu">cssupport@cs.unm.edu </a></p>
+<p><strong>All other questions:</strong>&#160;<br/> <a href="mailto:csinfo@cs.unm.edu">csinfo@cs.unm.edu</a></p>
+<p>Our office hours are Monday through Friday, 8:00AM to 5:00PM, excluding official UNM holidays.</p>
+</div>
+<div class="span3">
+<h2>Location:</h2>
+<p><strong>Physical Location:&#160;</strong><br/><a href="https://www.google.com/maps/place/Electrical+and+Computer+Engineering+Department,+UNM/@35.0831302,-106.62395,18z/data=!4m5!3m4!1s0x0:0xfbed57f6bd2b3213!8m2!3d35.0831281!4d-106.6245588" target="_blank" title="google map "><span class="slogan-fade">Electrical &amp; Computer Engineering</span></a><br/> Main Office: Room 133</p>
+<p><strong>Mailing Address:</strong> <br/> University of New Mexico<br/> Department of Computer Science<br/> MSC01 1130<br/> 1 University of New Mexico<br/> Albuquerque, NM 87131-0001</p>
+</div>
+<div class="span3">
+<h2>SOE Links</h2>
+<ul class="nav nav-list">
+<li><a href="http://engineering.unm.edu">School of Engineering</a></li>
+<li><a href="http://engineering.unm.edu/prospective/ugrad-admissions.html">Admissions</a></li>
+<li><a href="http://engineering.unm.edu/academics/index.html">Programs &amp; Degrees </a></li>
+<li><a href="http://soemep.unm.edu/advisement.html">Help &amp; Advisement</a></li>
+<li><a href="http://engineering.unm.edu/research/index.html">Research</a></li>
+</ul>
+</div>
+<div class="span3">
+<h2>Useful Links</h2>
+<ul class="nav nav-list">
+<li><a href="contact/map-directions.html">Map &amp; Directions</a></li>
+<li><a href="contact/parking.html">Parking</a></li>
+<li><a href="life-in-abq.html">Life in Albuquerque &amp; New Mexico</a></li>
+<li><a href="around-abq.html">How To Get Around Albuquerque</a></li>
+<li><a href="/support/index">Computer Facilities</a></li>
+</ul>
+<br/> <a href="https://www.facebook.com/cs.unm.edu"><img alt="" height="75" src="common/images/fb.png" width="75"/></a><br/><form action="https://www.unmfund.org/fund/computer-science-founders-fund/" id="unmfund"><button class="btn btn-large btn-block" id="support-engineering" type="submit"> <i class="fa fa-gift fa-3x pull-left"> </i>
+<p>Give to UNM <br/> Computer Science</p>
+</button></form></div>
+</div>
+<hr/>
+<div class="row">
+<div class="span6">
+<p>&#169; The University of New Mexico, Albuquerque, NM 87131, (505) 277-0111<br/> New Mexico's Flagship University</p>
+</div>
+<div class="span6">
+<ul class="pull-right" id="unm_footer_links">
+<li><a href="http://www.unm.edu/accessibility.html">Accessibility</a></li>
+<li><a href="http://www.unm.edu/legal.html">Legal</a></li>
+<li><a href="http://www.unm.edu/contactunm.html">Contact UNM</a></li>
+</ul>
+</div>
+</div></div>
+</div>
+<!-- /container --><!-- Le javascript
+    ================================================== --><!-- Placed at the end of the document so the pages load faster -->
+<script src="assets/js/bootstrap.min.js" type="text/javascript">
+</script>
+<script src="https://webcore.unm.edu/v1/javascript/slidemenu.js" type="text/javascript">
+</script>
+<script src="assets/js/soe.js" type="text/javascript">
+</script>
+</body>
+</html>

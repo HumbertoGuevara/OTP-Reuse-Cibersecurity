@@ -1,0 +1,233 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<title> UNM Student Union Building (SUB) | The University of New Mexico</title>
+
+ 
+
+<meta content="Tue, 31 Oct 2017 000:000:08 -0440" name="date" />
+
+<meta content="suDeBu3cQ5JEfYn92UdyZqkDPVCRI3QFK4dbV1tzUNk" name="google-site-verification" />
+<link href="https://webcore.unm.edu/v1/images/unm.ico" rel="shortcut icon" />
+<link href="https://webcore.unm.edu/v1/css/styles.php" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://webcore.unm.edu/v1/css/styles.php?media=print" media="print" rel="stylesheet" type="text/css" />
+<link href="common/css/site.css" media="screen" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+<link href="https://webcore.unm.edu/v1/css/ie.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+<script src="https://webcore.unm.edu/v1/javascript/jquery.min.js" type="text/javascript" ></script>
+<script src="https://webcore.unm.edu/v1/javascript/unm_scripts.php" type="text/javascript" ></script>
+
+
+
+<link href="common/css/homepage.css" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Francois+One" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" />
+<meta content="IE=8" http-equiv="X-UA-Compatible" />
+
+<script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(
+  	             ['_setAccount', 'UA-21786410-1'],
+  	             ['_setDomainName', '.unm.edu'],
+  	             ['_trackPageview']
+  	         );
+        </script>
+</head>
+<body>
+<div id="unm_header">
+<div class="header_content">
+<div id="skipnav"><a accesskey="2" href="#content" tabindex="1">Skip to Main Content</a> <span class="hide">|</span> <a accesskey="1" href="//www.unm.edu">UNM Homepage</a> <span class="hide">|</span> <a accesskey="0" href="//www.unm.edu/accessibility.html">Accessibility Statement</a></div>
+<div class="unm_header_title"><a href="//www.unm.edu" title="The University of New Mexico">The University of New Mexico</a></div>
+<div id="unm_header_links">
+<ul title="global UNM navigation">
+<li><a href="//www.unm.edu/depart.html" title="UNM A to Z">UNM A-Z</a></li>
+<li><a href="//studentinfo.unm.edu" title="StudentInfo">StudentInfo</a></li>
+<li><a href="//fastinfo.unm.edu" title="FastInfo">FastInfo</a></li>
+<li><a href="https://my.unm.edu" title="myUNM">myUNM</a></li>
+<li><a href="//directory.unm.edu" title="Directory">Directory</a></li>
+</ul>
+<form action="//search.unm.edu/search" id="unm_search_form" method="get"><fieldset><input accesskey="4" alt="input search query here" class="search_query" id="unm_search_form_q" maxlength="255" name="q" title="input search query here" type="text" /> <input accesskey="s" alt="search now" class="search_button" id="unm_search_for_submit" name="submit" src="https://webcore.unm.edu/v1/images/search.gif" type="image" value="search" /></fieldset></form></div>
+</div>
+</div>
+<div id="page">
+  <div id="dept_header">
+    <div id="dept_logo"><a href="http://www.unm.edu"><img alt="UNM Student Union Building (SUB)" src="common/images/unm-logo.gif" /></a></div>
+    <div id="sub_logo"><img alt="SUB Logo" class="closed-hand" height="460" src="common/images/hand-logo.png" width="490" /> 
+<ul class="main_nav">
+<li id="services-menu"><a href="services/index.html">SERVICES</a></li>
+<li id="activities-menu"><a href="activities/index.html">ACTIVITIES</a></li>
+<li id="events-menu"><a href="event-planning/index.html">EVENT PLANNING</a></li>
+<li id="students-menu"><a href="for-students-by-students/index.html">FOR STUDENTS BY STUDENTS</a></li>
+<li id="eats-menu"><a href="good-eats.html">GOOD EATS</a></li>
+<li id="about-menu"><a href="about/index.html">ABOUT</a></li>
+</ul>
+<p class="handmenu" id="events-menu-sub"><strong>Event Planning<br />
+</strong> Looking for a place to host an event? The SUB&#8217;s got you covered.</p>
+<p class="handmenu" id="students-menu-sub"><strong>For Students by Students<br />
+</strong> Student government, student activities, student organizations - student everything.</p>
+<p class="handmenu" id="services-menu-sub"><strong>Services</strong><br />
+The SUB offers a variety of different services to serve you as a UNM student.</p>
+<p class="handmenu" id="activities-menu-sub"><strong>Activities</strong><br />
+Check out all the fun, entertaining events in the SUB.</p>
+<p class="handmenu" id="about-menu-sub"><strong>About</strong><br />
+Everything you&#8217;ve ever wanted to know about the SUB.</p>
+<p class="handmenu" id="eats-menu-sub"><strong>Good Eats</strong><br />
+The SUB has just what you want when you need to chow down.</p>
+</div>
+<script src="common/scripts/jquery.hoverIntent.min.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+
+$(document).ready(function() {
+  
+   $(".main_nav li")
+     .hover( 
+        function() {openhand($(this).attr('id'))},
+        function() {closehand($(this).attr('id'))}        
+      );
+
+});
+
+function openhand(menuid) {
+$(".closed-hand").attr("src", "common/images/hand-open.png");
+$('#'+menuid+'-sub').show();
+}
+function closehand(menuid) {
+$(".closed-hand").attr("src", "common/images/hand-logo.png");
+$('#'+menuid+'-sub').hide();
+}
+</script>
+    
+  </div>
+  <div class="fullwidth" id="container">
+    <div id="primary_aside">
+    <div class="content">
+      <div id="primary_aside_1"><div class="home homepage box">
+<h3 class="hours">Monday - Friday</h3>
+<div class="hours">
+<p>7:00 a.m. - Midnight</p>
+<h3>Saturday</h3>
+<p>8:00 a.m. - Midnight</p>
+<h3>Sunday</h3>
+<p><span>Noon - Midnight</span></p>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+<div ></div>
+</div>
+<div id="social-media">
+<h3 class="hours">Connect<br /> with us:</h3>
+<p><a class="media" href="http://www.instagram.com/unmsub" style="font-size: 1em; line-height: 1.5em;"><img alt="Instagram icon" height="32" src="common/images/instagram-icon-border.jpg" width="32" /></a><a class="media" href="http://www.twitter.com/unmsub" style="font-size: 1em; line-height: 1.5em;"><img alt="Twitter icon" height="32" src="common/images/twitter-bird-icon-border.jpg" width="32" /></a><a class="media" href="http://www.facebook.com/SUB.UNM" style="font-size: 1em; color: #007a86; line-height: 1.5em;"><img alt="Facebook icon" height="32" src="common/images/fb-icon.jpg" width="32" /></a><br /> <a class="clear media" href="mailto:sub@unm.edu"><img alt="email icon" height="32" src="common/images/email-icon.jpg" width="32" /></a><a class="media" href="http://unmlobolife.tumblr.com/" style="font-size: 1em; line-height: 1.5em;"><img alt="Tumblr icon" height="32" src="common/images/twitter-icon.jpg" width="32" /></a><a class="media" href="http://www.youtube.com/user/unmlobolife" style="font-size: 1em; line-height: 1.5em;"><img alt="YouTube icon" height="32" src="common/images/yt-icon.jpg" width="32" /></a></p>
+</div>
+</div></div>
+      <div id="primary_aside_2"><div class="home"><a href="https://instagram.com/unmsub"><img alt="Pictures" class="main" height="180" src="common/images/pictures2.jpg" width="280" /></a><br />
+<h2 class="pictures"><a href="https://instagram.com/unmsub">PICTURES</a></h2>
+</div>
+<div class="vids"><a class="pics" href="http://www.youtube.com/user/unmlobolife"><img alt="Videos" class="main" height="179" src="common/images/videos2.jpg" width="280" /></a><br />
+<h2 class="pictures"><a href="http://www.youtube.com/user/unmlobolife">VIDEOS</a></h2>
+</div></div>
+      <div id="primary_aside_3"><div id="events"><h2 class="events-feed">Events</h2><div class="event"><img alt="BloodDonation1.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/59fd53e4-dbd9-4d08-a4a4-96f81b0b62c7-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/halloween-blood-drive---asunm-community-experience-1/">Halloween Blood Drive - ASUNM Community Experience</a></h2><p><time class="date small" datetime="2017-10-30T00:00:00">Oct 30, 2017 - 
+                          
+                                        
+                                
+                                    Oct 31, 2017</time><br />Ballrooms A&amp;B<br />Student Union Building<br /></p></div></div><div class="event"><img alt="DarkTower_Still1.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/d55518b9-e574-4e52-8f52-fcc8dbba65d0-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/the-dark-tower---mid-week-movie-series/">The Dark Tower - Mid Week Movie Series</a></h2><p><time class="date small" datetime="2017-10-31T00:00:00">Oct 31, 2017 - 
+                          
+                                        
+                                
+                                    Nov 2, 2017</time><br />Theater<br /></p></div></div><div class="event"><img alt="Craftsman's Guild Weekly Meeting" class="left" src="common/images/generic-event.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/craftsmans-guild-weekly-meeting-9/">Craftsman's Guild Weekly Meeting</a></h2><p><time class="date small" datetime="2017-11-01T13:30:00">Nov 1, 2017 - 1:30 PM</time><br />Mesa Vista Hall<br />Women's Resource Center<br /></p></div></div><div class="event"><img alt="NSBE-Flier.png" class="left" src="https://calendarmedia.blob.core.windows.net/assets/44914797-7bbf-4320-9b8a-d80bef0d900f-thumb.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/unm-national-society-of-black-engineers-nsbe-general-meeting-3/">UNM National Society of Black Engineers (NSBE) General Meeting</a></h2><p><time class="date small" datetime="2017-11-01T17:30:00">Nov 1, 2017 - 5:30 PM</time><br />Main Campus<br />Centennial Engineering Center<br /></p></div></div><div class="event"><img alt="guesswhoscomingtodinner.png" class="left" src="https://calendarmedia.blob.core.windows.net/assets/bf213625-b860-4849-96af-e73835f431f6-thumb.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/guess-whos-coming-to-dinner---asunm-southwest-film-center/">Guess Who's Coming to Dinner - ASUNM Southwest Film Center</a></h2><p><time class="date small" datetime="2017-11-02T00:00:00">Nov 2, 2017 - 
+                          
+                                        
+                                
+                                    Nov 5, 2017</time><br />Theater<br /></p></div></div><div class="event"><img alt="basementfilms.png" class="left" src="https://calendarmedia.blob.core.windows.net/assets/085bcb92-f8c8-4c04-a403-d8332a1fbc83-thumb.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/basement-films-audio-visual-show---asunm-southwest-film-center/">Basement Films: Audio Visual Show - ASUNM Southwest Film Center</a></h2><p><time class="date small" datetime="2017-11-03T00:00:00">Nov 3, 2017</time><br />Theater<br /></p></div></div><div class="event"><img alt="Dunkirk_Still1.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/b454a8b2-e0f8-49fb-92cc-ba6e449f3c59-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/dunkirk---mid-week-movie-series/">Dunkirk - Mid Week Movie Series</a></h2><p><time class="date small" datetime="2017-11-07T00:00:00">Nov 7, 2017 - 
+                          
+                                        
+                                
+                                    Nov 9, 2017</time><br />Theater<br /></p></div></div><div class="event"><img alt="Craftsman's Guild Weekly Meeting" class="left" src="common/images/generic-event.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/craftsmans-guild-weekly-meeting-10/">Craftsman's Guild Weekly Meeting</a></h2><p><time class="date small" datetime="2017-11-08T13:30:00">Nov 8, 2017 - 1:30 PM</time><br />Mesa Vista Hall<br />Women's Resource Center<br /></p></div></div><div class="event"><img alt="IronCowboy.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/2af91245-f1b9-4b74-b1b8-0fb841bb89f0-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/iron-cowboy---world-record-triathlete/">Iron Cowboy - World Record Triathlete</a></h2><p><time class="date small" datetime="2017-11-08T19:00:00">Nov 8, 2017 - 7:00 PM</time><br />Ballroom B<br /></p></div></div><div class="event"><img alt="ghostintheshell.png" class="left" src="https://calendarmedia.blob.core.windows.net/assets/d2d80d23-003d-4f44-adf8-56fba5d89bc8-thumb.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/ghost-in-the-shell---asunm-southwest-film-center/">Ghost in the Shell - ASUNM Southwest Film Center</a></h2><p><time class="date small" datetime="2017-11-10T00:00:00">Nov 10, 2017 - 
+                          
+                                        
+                                
+                                    Nov 12, 2017</time><br />Theater<br /></p></div></div><div class="event"><img alt="LGTChecks.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/96f8527f-d079-40ff-9738-f54a65ae97d9-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/lobos-got-talent---talent-show-1/">Lobo's Got Talent - Talent Show!</a></h2><p><time class="date small" datetime="2017-11-10T19:00:00">Nov 10, 2017 - 7:00 PM</time><br />Ballrooms A&amp;B<br /></p></div></div><div class="event"><img alt="18077250_1494721633911538_2423926812633698360_o.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/b4d5783b-fcca-4dd2-afcc-ea9050194ae2-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/study-nights-at-unm-childrens-campus-3/">Study Nights at UNM Children's Campus</a></h2><p><time class="date small" datetime="2017-11-13T17:30:00">Nov 13, 2017 - 5:30 PM</time><br /></p></div></div><div class="event"><img alt="It_Still2.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/87e8a791-0788-4bbe-ab9e-be9d149bead8-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/it---mid-week-movie-series/">It - Mid Week Movie Series</a></h2><p><time class="date small" datetime="2017-11-14T00:00:00">Nov 14, 2017 - 
+                          
+                                        
+                                
+                                    Nov 16, 2017</time><br />Theater<br /></p></div></div><div class="event"><img alt="Craftsman's Guild Weekly Meeting" class="left" src="common/images/generic-event.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/craftsmans-guild-weekly-meeting-11/">Craftsman's Guild Weekly Meeting</a></h2><p><time class="date small" datetime="2017-11-15T13:30:00">Nov 15, 2017 - 1:30 PM</time><br />Mesa Vista Hall<br />Women's Resource Center<br /></p></div></div><div class="event"><img alt="NSBE-Flier.png" class="left" src="https://calendarmedia.blob.core.windows.net/assets/44914797-7bbf-4320-9b8a-d80bef0d900f-thumb.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/unm-national-society-of-black-engineers-nsbe-general-meeting-4/">UNM National Society of Black Engineers (NSBE) General Meeting</a></h2><p><time class="date small" datetime="2017-11-15T17:30:00">Nov 15, 2017 - 5:30 PM</time><br />Main Campus<br />Centennial Engineering Center<br /></p></div></div><div class="event"><img alt="cherryreel.png" class="left" src="https://calendarmedia.blob.core.windows.net/assets/610c0d0e-da69-4ff6-a4e1-f36fb549b3d8-thumb.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/cherry-reel-film-festival---asunm-southwest-film-center/">Cherry Reel Film Festival - ASUNM Southwest Film Center</a></h2><p><time class="date small" datetime="2017-11-18T00:00:00">Nov 18, 2017</time><br />Theater<br /></p></div></div><div class="event"><img alt="HPLogo.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/0c29feb0-4cbe-414c-91d7-da3914b83c70-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/harry-potter-day-1/">Harry Potter Day!</a></h2><p><time class="date small" datetime="2017-11-21T12:00:00">Nov 21, 2017 - 12:00 PM</time><br />Lower level<br /></p></div></div><div class="event"><img alt="Craftsman's Guild Weekly Meeting" class="left" src="common/images/generic-event.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/craftsmans-guild-weekly-meeting-12/">Craftsman's Guild Weekly Meeting</a></h2><p><time class="date small" datetime="2017-11-22T13:30:00">Nov 22, 2017 - 1:30 PM</time><br />Mesa Vista Hall<br />Women's Resource Center<br /></p></div></div><div class="event"><img alt="Kingsman_Still2.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/e1da29b0-371c-4db2-9504-9389cd4a119a-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/kingsman-golden-circle---mid-week-movie-series/">Kingsman: Golden Circle - Mid Week Movie Series</a></h2><p><time class="date small" datetime="2017-11-28T00:00:00">Nov 28, 2017 - 
+                          
+                                        
+                                
+                                    Nov 30, 2017</time><br />Theater<br /></p></div></div><div class="event"><img alt="Craftsman's Guild Weekly Meeting" class="left" src="common/images/generic-event.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/craftsmans-guild-weekly-meeting-13/">Craftsman's Guild Weekly Meeting</a></h2><p><time class="date small" datetime="2017-11-29T13:30:00">Nov 29, 2017 - 1:30 PM</time><br />Mesa Vista Hall<br />Women's Resource Center<br /></p></div></div><div class="event"><img alt="18077250_1494721633911538_2423926812633698360_o.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/b4d5783b-fcca-4dd2-afcc-ea9050194ae2-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/study-nights-at-unm-childrens-campus-4/">Study Nights at UNM Children's Campus</a></h2><p><time class="date small" datetime="2017-11-29T17:30:00">Nov 29, 2017 - 5:30 PM</time><br /></p></div></div><div class="event"><img alt="NSBE-Flier.png" class="left" src="https://calendarmedia.blob.core.windows.net/assets/44914797-7bbf-4320-9b8a-d80bef0d900f-thumb.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/unm-national-society-of-black-engineers-nsbe-general-meeting-5/">UNM National Society of Black Engineers (NSBE) General Meeting</a></h2><p><time class="date small" datetime="2017-11-29T17:30:00">Nov 29, 2017 - 5:30 PM</time><br />Main Campus<br />Centennial Engineering Center<br /></p></div></div><div class="event"><img alt="hotg.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/a5c545dd-4ea6-4268-b74b-c33c181831eb-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/hanging-of-the-greens-applications-available/">Hanging of the Greens *Applications Available!*</a></h2><p><time class="date small" datetime="2017-12-01T00:00:00">Dec 1, 2017</time><br />Student Union Building<br /></p></div></div><div class="event"><img alt="pele.png" class="left" src="https://calendarmedia.blob.core.windows.net/assets/d2dc1ee3-0d66-4196-8ee8-7d2ebfad707c-thumb.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/pele-birth-of-a-legend---asunm-southwest-film-center/">Pele: Birth of a Legend - ASUNM Southwest Film Center</a></h2><p><time class="date small" datetime="2017-12-01T00:00:00">Dec 1, 2017 - 
+                          
+                                        
+                                
+                                    Dec 3, 2017</time><br />Theater<br /></p></div></div><div class="event"><img alt="Hanging of the Greens.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/e7345f95-313e-41e0-ae6c-614e263902a3-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/hanging-of-the-greens/">Hanging of the Greens</a></h2><p><time class="date small" datetime="2017-12-01T17:45:00">Dec 1, 2017 - 5:45 PM</time><br />UNM Bookstore<br /></p></div></div><div class="event"><img alt="18077250_1494721633911538_2423926812633698360_o.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/b4d5783b-fcca-4dd2-afcc-ea9050194ae2-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/study-nights-at-unm-childrens-campus-5/">Study Nights at UNM Children's Campus</a></h2><p><time class="date small" datetime="2017-12-05T17:30:00">Dec 5, 2017 - 5:30 PM</time><br /></p></div></div><div class="event"><img alt="Craftsman's Guild Weekly Meeting" class="left" src="common/images/generic-event.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/craftsmans-guild-weekly-meeting-14/">Craftsman's Guild Weekly Meeting</a></h2><p><time class="date small" datetime="2017-12-06T13:30:00">Dec 6, 2017 - 1:30 PM</time><br />Mesa Vista Hall<br />Women's Resource Center<br /></p></div></div><div class="event"><img alt="18077250_1494721633911538_2423926812633698360_o.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/b4d5783b-fcca-4dd2-afcc-ea9050194ae2-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/study-nights-at-unm-childrens-campus-6/">Study Nights at UNM Children's Campus</a></h2><p><time class="date small" datetime="2017-12-07T17:30:00">Dec 7, 2017 - 5:30 PM</time><br /></p></div></div><div class="event"><img alt="18077250_1494721633911538_2423926812633698360_o.jpg" class="left" src="https://calendarmedia.blob.core.windows.net/assets/b4d5783b-fcca-4dd2-afcc-ea9050194ae2-thumb.jpg" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/study-nights-at-unm-childrens-campus-7/">Study Nights at UNM Children's Campus</a></h2><p><time class="date small" datetime="2017-12-11T17:30:00">Dec 11, 2017 - 5:30 PM</time><br /></p></div></div><div class="event"><img alt="Craftsman's Guild Weekly Meeting" class="left" src="common/images/generic-event.png" /><div class="event-info"><h2><a class="highlighted" href="https://unmevents.unm.edu/site/sac/event/craftsmans-guild-weekly-meeting-15/">Craftsman's Guild Weekly Meeting</a></h2><p><time class="date small" datetime="2017-12-13T13:30:00">Dec 13, 2017 - 1:30 PM</time><br />Mesa Vista Hall<br />Women's Resource Center<br /></p></div></div></div></div>
+      <div id="primary_aside_4" ></div>
+    </div>
+    </div>
+    
+    <div id="content_top">
+      <div class="content">
+        
+        
+      </div>
+    </div>
+ 
+    <div id="content">
+      <div class="content">
+        <div id="before_default_1" ></div>
+        <div id="before_default_2" ></div>
+        <div id="before_default_3" ></div>
+        <div id="before_default_4" ></div> 
+        
+        
+        <div id="after_default_1" ></div>
+        <div id="after_default_2" ></div>
+        <div id="after_default_3" ></div>
+        <div id="after_default_4" ></div>
+      </div>
+    </div>
+    <div id="secondary_aside">
+    <div class="content">
+      <div id="secondary_aside_1" ></div>
+      <div id="secondary_aside_2" ></div>
+      <div id="secondary_aside_3" ></div>
+      <div id="secondary_aside_4" ></div>
+    </div>
+    </div>
+  </div>
+  <div class="footer">
+<div class="left">
+<p>&#169;The University of New Mexico, Albuquerque, NM 87131, (505) 277-0111<br />
+New Mexico's Flagship University&#160;</p>
+</div>
+<div class="right">
+<p><a href="contact-us.html">Contact Us</a></p>
+</div>
+<div class="right">
+<p><a href="mailto:sub@unm.edu">Website Comments</a></p>
+</div>
+<div class="right">
+<p><a href="http://www.unm.edu/legal.html">Legal</a></p>
+</div>
+<div class="right">
+<p><a href="sub-employees/index.html">Employees</a></p>
+</div>
+<div class="right">
+<p><a href="http://www.unm.edu/accessibility.html">Accessibility</a></p>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,983 @@
+
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>Bitcoin of America is the safest place buy, trade, and sell bitcoin | Bitcoin Of America</title>
+<!-- Meta -->
+<meta name="keywords" content="Buy bitcoin, bitcoin rate, bitcoin currency, bitcoin exchanges, bitcoins price, bitcoins to dollars" />
+<meta name="description" content="You can buy bitcoins in three ways on Bitcoin of America: Sign up, create your order, and make your payment. You can also check the rate currency exchange price and convert bitcoins.">
+<meta http-equiv="cleartype" content="on">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<!--Favicon-->
+<link rel="icon" type="image/ico" href="images/fav.png">
+
+<meta property="og:url" content="https://www.bitcoinofamerica.org/" />
+<meta property="og:image" content="https://bitcoinofamerica.org/images/main-logo.jpg" />
+<meta property="og:title" content="Bitcoin of America" />
+<meta property="og:description" content="Buy bitcoins in three ways sign up, create your order, and make your payment.">
+<!-- css -->
+<link rel="stylesheet" href="https://bitcoinofamerica.org/css/menu2.css">
+<link rel="stylesheet" href="https://bitcoinofamerica.org/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://bitcoinofamerica.org/css/animate.css" />
+<link rel="stylesheet" type="text/css" href="https://bitcoinofamerica.org/css/owl.carousel.css" >
+<link rel="stylesheet" type="text/css" href="https://bitcoinofamerica.org/css/templates-m3a.css">
+<!-- font-awsome -->
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
+<!-- google font -->
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>		
+<link href='https://fonts.googleapis.com/css?family=Exo:400,300,200italic,200,100italic,100,400italic,500,500italic,600,600italic,700,700italic,800' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300italic,300,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Raleway:400,100italic,100,200,200italic,300,300italic,400italic,500,500italic,600,600italic,700,800,800italic,900,900italic' rel='stylesheet' type='text/css'>
+<!--Js -->
+<script src="https://bitcoinofamerica.org/js/jquery.min.js"></script>
+<script src="https://bitcoinofamerica.org/js/bootstrap.min.js"></script>
+<style type="text/css">
+      .js #scmenu {display: none;}
+</style>
+<script type="text/javascript">
+      document.documentElement.className = 'js';
+</script>
+<script type="text/javascript" src="//cdn.callrail.com/companies/538657329/e20db8ce07e4f108494c/12/swap.js"></script>
+<style type="text/css">
+.hide {
+  display: none;
+}
+
+.morecontent span {
+    display: none;
+}
+.morelink {
+    display: block;
+} 
+.linkssc {
+    text-align: center;
+    float: left;
+    width: 100%;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+.read-more-hide { 
+    color: #000;
+    padding: 5px 0px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-radius: 5px; 
+}
+.read-more-hide:hover {
+  color: #fc4a00; 
+}
+.read-more-show {
+  color: #000;
+    padding: 5px 0px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-radius: 5px; 
+}
+.read-more-show:hover {
+    color: #fc4a00; 
+}
+.seohome p {
+    padding-bottom: 15px;
+    font-size: 15px;
+}
+.seohome {
+    padding-bottom: 15px;
+    font-size: 15px;
+}
+.seohome h3 {
+    font-size: 25px;
+    font-weight: 600;
+}
+.seohome ul {
+    margin-left: 18px;
+}
+.seohome ul li {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 10px;
+    list-style-type: square;
+}
+@media only screen and (min-width:900px) and (max-width:1250px) {
+	#map-canvas, #map-canvas2 {
+		width: 850px !important;
+	}
+	
+}
+@media only screen and (min-width:560px) and (max-width:899px) {
+	#map-canvas, #map-canvas2 {
+		width: 550px !important;
+	}
+	
+}
+@media only screen and (min-width:320px) and (max-width:559px) {
+	#map-canvas, #map-canvas2 {
+		width: 300px !important;
+	}
+	
+}
+</style>
+</head>
+<body >
+
+ <!-- Page wrap -->
+        <div class="page-wrap">
+
+            <div class="headers">
+                <div class="headers-bg">
+                    <div class="container-fluid">
+                        
+<div class="top-bar">
+    <div class="logo">
+        <a href="https://bitcoinofamerica.org"><img src="https://bitcoinofamerica.org/images/logo.png" alt="Bitcoin Of America"></a>
+    </div><!-- logo -->
+    
+    <div class="credential for-mobile">
+      
+		<a class="btn btn-md btn-oranger" href="https://bitcoinofamerica.org/login.asp"><i class="fa fa-user"></i> Login</a>
+		 <a class="btn btn-md btn-border" href="https://bitcoinofamerica.org/register.asp"><i class="fa fa-bitcoin"></i> Create Account</a>
+
+		
+    </div><!-- credential -->
+    
+    <div class="menu" id='scmenu'>
+        <ul>
+          <!--  <li><a href=".">Home</a></li>-->
+            
+			 <li><a href="https://bitcoinofamerica.org/buycoins.asp">Buy Bitcoin</a></li>
+            <li><a href="https://bitcoinofamerica.org/sellcoins.asp">Sell Bitcoin</a></li>
+            <li><a href="https://bitcoinofamerica.org/blog/news/">NEWS</a></li>
+            <li><a href="https://bitcoinofamerica.org/how-to-buy.asp">How to buy</a></li>
+            <li><a href="https://bitcoinofamerica.org/bitcoin-atm-kiosk-locations.asp">Kiosk</a></li>
+            <li><a href="https://bitcoinofamerica.org/contact.asp">Contact</a></li>
+			
+                                
+            
+           
+        </ul>
+    </div><!-- menu -->
+    
+    
+    						
+          <style>
+			@-webkit-keyframes glowing {
+			  0% { background-color: #4A7F00; -webkit-box-shadow: 0 0 3px #4A7F00;}
+			  50% { background-color: #94FF00; -webkit-box-shadow: 0 0 10px #94FF00; }
+			  100% { background-color: #4A7F00; -webkit-box-shadow: 0 0 3px #4A7F00; }
+			}
+			
+			@-moz-keyframes glowing {
+			  0% { background-color: #004A7F00; -moz-box-shadow: 0 0 3px #4A7F00; }
+			  50% { background-color: #94FF00; -moz-box-shadow: 0 0 10px #94FF00; }
+			  100% { background-color: #4A7F00; -moz-box-shadow: 0 0 3px #4A7F00; }
+			}
+			
+			@-o-keyframes glowing {
+			  0% { background-color: #4A7F00; box-shadow: 0 0 3px #4A7F00; }
+			  50% { background-color: #94FF00; box-shadow: 0 0 10px #94FF00; }
+			  100% { background-color: #4A7F00; box-shadow: 0 0 3px #4A7F00; }
+			}
+			
+			@keyframes glowing {
+			  0% { background-color: #4A7F00; box-shadow: 0 0 3px #4A7F00; }
+			  50% { background-color: #94FF00; box-shadow: 0 0 10px #94FF00; }
+			  100% { background-color: #4A7F00; box-shadow: 0 0 3px #4A7F00; }
+			}
+			
+			.messagebutt {
+				-webkit-animation: glowing 1500ms infinite;
+				  -moz-animation: glowing 1500ms infinite;
+				  -o-animation: glowing 1500ms infinite;
+				  animation: glowing 1500ms infinite;
+				font-size:13px !important;
+				padding:2px 10px 2px 10px !important;
+				font-weight:bold !important;
+				color:white;
+				border: 0px;
+				text-shadow:black 0px 0px 3px;
+			}
+			</style>
+			<div id=buttonbox></div>
+			<script>
+			function fetchIt() {
+				$.post("checkwaiting.asp", {uid:0}, function(result){
+					$( ".messagebutt" ).remove();
+			
+					var itemData = JSON.parse(result).data;
+					if(itemData[0]) {
+						var item = itemData[0];
+						if (item.waitingmessages>0) {
+							var $input = $('<button class=messagebutt onclick=window.location.href="messages.asp">'+item.waitingmessages+' Messages Waiting!</button>');
+							$input.appendTo($("#buttonbox"));
+						}
+						var v = item.cashbalance/100;
+						var num = '$' + v.toFixed(2).replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,");
+						$('#cashbalance').html(num);
+						$('#cashbalance').show();
+					}
+
+				});
+			}
+			fetchIt();
+			setInterval(function(){ fetchIt(); }, 30000);
+			</script>                
+                                
+    
+    <div class="credential for-desk">
+    
+    	
+		<a class="btn btn-md btn-oranger" href="https://bitcoinofamerica.org/login.asp"><i class="fa fa-user"></i> Login</a>
+		 <a class="btn btn-md btn-border" href="https://bitcoinofamerica.org/register.asp"><i class="fa fa-bitcoin"></i> Create Account</a>
+
+		
+        
+    </div><!-- credential -->
+</div><!-- top-bar -->
+
+
+
+                        <div class="space"></div>
+
+                        <div class="form-wrap wow bounceIn">
+                            <h1>
+                                Fastest Turn Around Time, Send Money & Get Coins Same Day.
+                            </h1>
+                            <h4 data-toggle="modal" data-target="#modal1">
+                                watch overview video <i class="fa fa-play-circle"></i>
+                            </h4>
+                            <form class="sign-up-home">
+                                <div class="field-wrap">
+                                    <input type="text" placeholder="First and Last Name" name="" class="fields">
+                                </div>
+
+                                <div class="field-wrap">
+                                    <input type="email" placeholder="Your Email Address" name="" class="fields">
+                                </div>
+
+                                <div class="field-wrap">
+                                    <input type="password" placeholder="Password" name="" class="fields">
+                                </div>
+
+                                <input type="submit" value="Open Account" name="" class="submit">
+                            </form>
+                                                    <h2 style="text-align: center; color: #fff;  font-size: 20px;    line-height: 20px;    padding-top: 30px;">
+                                                   You can now purchase Bitcoin at any WU agent location in the USA<br>
+                                                   <div class="wu"><img src="images/wup.png" alt="WU"/>
+                                                   <div style="font-size: 12px;
+    text-align: center;
+    color: #fff;
+    font-weight: 400;">Agent # ACH123421 </div>
+</div>
+                                                   </div>
+                                                    </h2>
+
+                        </div><!-- form-wrap -->
+                    </div><!-- container -->
+                </div><!-- header-bg -->
+            </div>	<!-- headers -->
+
+
+   <div class="text-slider">
+		<div class="">
+			<marquee class="marque-1" behavior="scroll" direction="left"><i class="fa fa-user"></i>Fastest turn around time in the market. Same day settlement. Purchase up to 500BTC daily for personal or business use. Quick approval time. </marquee>
+		</div>
+    </div><!-- text-slider -->
+    <div class="text-slider2" style=display:none;>
+		<marquee class="marque-2" behavior="scroll" direction="right">
+			
+		</marquee>
+    </div><!-- text-slider -->
+
+   <section class="feature mobile-device">
+                <div class="container-fluid">
+                 <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="feature-content wow bounceIn" >
+
+                        <img src="images/bitcoint.jpg" alt="Buy&sell">
+                        <h3 class="color-blue">Buy&sell</h3>
+                        <p>
+                           It takes less than one minute to register your account.
+                        </p>
+                        <a href="https://bitcoinofamerica.org/register.asp" class="bg-blue"><i class="fa fa-chevron-right"></i></a>
+                    </div><!-- content -->
+</div>
+
+ <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="feature-content wow bounceIn">
+
+                        <img src="images/start-final-Recovered_07.png" alt="How It Works">
+                        <h3 class="color-orange">How It Works</h3>
+                        <p>
+                         Buy and pay for bitcoins at any of our 1900 payment collection location centers. click here to see how it works.
+                        </p>
+                        <a href="https://bitcoinofamerica.org/how-it-works.asp" class="bg-orange"><i class="fa fa-chevron-right"></i></a>
+                    </div><!-- content -->
+
+</div>
+
+ <div class="col-lg-4 col-md-4 col-sm-4">
+
+                    <div class="feature-content wow bounceIn">
+
+                        <a href="https://localbitcoins.com/ad/195917/purchase-bitcoin-cash-deposit-citi-banksun-trust-pnc-fastestinstant-united-states" ><img src="images/bit-ame.png" alt="Feel Safe & Trade"></a>
+                        <h3 class="color-pink">Feel Safe & Trade</h3>
+                        <p>
+                         Feel safe & trade with Bitcoin of America
+                        </p>
+                        <a href="https://localbitcoins.com/ad/195917/purchase-bitcoin-cash-deposit-citi-banksun-trust-pnc-fastestinstant-united-states" class="bg-pink"><i class="fa fa-chevron-right"></i></a>
+                    </div><!-- content -->
+
+                </div>  </div><!-- container-fluid -->
+            </section><!-- feature -->
+
+<div class="fluid-container body-bg border-bottom mobile-device">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-4">
+                        <div class="buy-method">
+                        <div class="sign-up-icon">
+                        <img src="images/sign-up.png" alt="Sign Up">
+                        </div>
+                        <h5>Sign Up</h5>
+                        <p>Create account to purchase from store location (No KYC or ID needed)</p> 
+                        
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4">
+                        <div class="buy-method">
+                        <div class="sign-up-icon">
+                        <img src="images/connect.png" alt="Connect">
+                        </div>
+                        <h5 class="connect">Connect</h5>
+                        <p>To wire and purchase up to 500 bitcoin daily get account verified and ID required.</p>  
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="buy-method">
+                        <div class="sign-up-icon">
+                        <img src="images/buy.png" alt="Buy Bitcon">
+                        </div>
+                        <h5 class="buy">Buy Bitcoin</h5>
+                        <p>Start buying bitcoins!</p>   
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            <section class="lcd-graph mobile-device">
+                <div class="container">
+                	<div class="col-md-6 col-sm-6">
+                    <div class="graph-img">
+                        <img src="images/device.png" alt="What We Do">
+                    </div><!-- graph-img -->
+                     </div>
+                     <div class="col-md-6 col-sm-6">
+                     <div class="content-do">
+                        <h3>What We Do</h3>
+                        <p>
+                           Buy bitcoins daily up to 500 BTC and have same day settlement on all transactions.  Bitcoin Kiosk and payment locations also available.
+                        </p>
+                        <a class="btn btn-md btn-border" href="buycoins.asp"> READ MORE</a>					
+                    </div>
+                     </div>
+                    
+                    
+                </div><!-- container-fluid -->
+            </section><!--what-lcd-graph  -->
+
+            
+            <section class="graphical">
+                <div class="container-fluid">
+    
+<!--
+					<h2 class="title">
+                        Overviews
+                    </h2>
+                    <center>
+                        <a class="btn btn-ex-lg btn-orange2 graph-tab1 ">Bitstamp</a>
+                        <a class="btn btn-ex-lg btn-broder btn-black-bod graph-tab2">BTC-e</a>
+                        <a class="btn btn-ex-lg btn-broder btn-black-bod graph-tab3">ItBit</a>
+                        <a class="btn btn-ex-lg btn-broder btn-black-bod graph-tab4">Coinbase</a>
+	
+                    </center>
+-->
+           
+                    <div class="graph" style="height:550px;">
+<!-- TradingView Widget BEGIN -->
+<script type="text/javascript" src="https://d33t3vvu2t2yu5.cloudfront.net/tv.js"></script>
+<script type="text/javascript">
+new TradingView.widget({
+  "autosize": true,
+  "symbol": "COINBASE:BTCUSD",
+  "interval": "5",
+  "timezone": "Etc/UTC",
+  "theme": "White",
+  "style": "3",
+  "locale": "en",
+  "toolbar_bg": "rgba(255, 255, 255, 1)",
+  "enable_publishing": false,
+  "hide_top_toolbar": true,
+  "save_image": false,
+  "hideideas": true
+});
+</script>
+<!-- TradingView Widget END -->
+
+                    </div><!--graph -->
+                </div><!-- container-fluid -->
+            </section>
+            
+
+
+            <section class="parallex">
+                <section class="parallex-bg">
+                    <div class="container-fluid">
+                        <h2>Feel Safe & Trade</h2>
+                        <p>Feel safe and secure knowing we are registered MSB</p>
+                        <a href="https://bitcoinofamerica.org/safe-secure.asp" class="btn btn-lg btn-border">Read More</a>
+                    </div><!-- container-fluid -->
+                </section><!--parallex -bg -->
+            </section><!--parallex -->
+
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+
+	
+<script type="text/javascript">
+var StoreData = [
+	[35.484727,-79.160719],[36.455333,-77.655448],[40.853092,-73.930988],[34.030952,-117.748477],[31.894436,-102.328699],[34.989118,-80.554723],[40.845145,-73.935329],[34.002501,-118.239721],[33.9594,-83.973043],[39.097313,-121.552048],[39.854263,-75.075022],[26.128266,-81.770095],[37.003692,-121.56767],[35.390508,-118.987389],[37.541434,-122.02564],[37.000283,-121.558155],[38.132429,-121.269267],[33.890352,-84.195623],[40.726882,-74.166366],[39.918058,-75.101276],[40.797635,-73.938673],[34.173543,-119.150016],[36.006677,-84.016031],[27.815362,-82.671724],[34.268446,-86.070586],[33.933533,-84.555702],[38.143198,-85.774714],[37.477733,-122.212936],[40.269283,-74.523697],[41.774994,-72.632747],[36.945346,-120.022884],[40.03971,-75.077622],[40.057711,-75.060352],[40.487449,-74.445179],[40.482671,-74.452257],[40.437848,-74.202252],[37.950065,-122.047477],[25.439271,-80.499737],[25.511057,-80.432631],[38.429953,-122.728241],[37.961191,-122.503829],[25.908924,-80.212045],[0,0],[27.365535,-99.486985],[33.75973,-117.872771],[34.002338,-118.085583],[34.02501,-118.355081],[33.915924,-118.353006],[34.026785,-118.39372],[34.025798,-118.308243],[34.215323,-118.860527],[34.12919,-117.864189],[34.160928,-119.152362],[33.858726,-117.924804],[33.759379,-117.854511],[37.404124,-122.097996],[34.135557,-117.535935],[41.884165,-71.386592],[37.471987,-122.215129],[38.989627,-74.817916],[38.252431,-121.303951],[38.539623,-121.475699],[38.743815,-121.288214],[30.588399,-84.584636],[40.9263,-73.996671],[40.910884,-72.63106],[36.425381,-121.324652],[26.164353,-81.766885],[38.014162,-121.640968],[38.600426,-121.282921],[33.862688,-84.291795],[33.84389,-84.328287],[39.136448,-121.615786],[37.77272,-122.276475],[40.66699,-73.586653],[41.81187,-71.430684],[39.918058,-75.101276],[0,0],[37.759466,-122.188303],[0,0],[26.618172,-80.150972],[40.847467,-73.901297],[26.605237,-81.866999],[39.016659,-76.920607],[44.492497,-87.984582],[28.031931,-81.989945],[27.471652,-80.335433],[42.166739,-72.456326],[40.910884,-72.63106],[36.201321,-119.092831],[34.952886,-120.44744],[37.60066,-121.00646],[26.293403,-97.991512],[37.478305,-122.224858],[26.619354,-80.149424],[37.961498,-122.503014],[38.608026,-121.454774],[39.918058,-75.101276],[42.408019,-70.997394],[40.766518,-74.205181],[39.946603,-75.082336],[32.206687,-95.85623],[38.26385,-122.033292],[37.680225,-121.756022],[38.79995,-123.016473],[40.209027,-74.747099],[41.74846,-87.75748],[41.443914,-82.691747],[39.997317,-75.129748],[34.088226,-84.580969],[41.796749,-87.723626],[27.441916,-80.343763],[37.733735,-120.935386],[33.8814,-118.29106],[35.185806,-78.078073],[40.781065,-74.022489],[36.758233,-119.773086],[35.90573,-78.112688],[34.514944,-82.002736],[0,0],[34.08551,-118.178844],[26.606029,-99.072835],[40.85544,-73.855732],[40.803828,-124.159443],[40.679899,-73.88578],[34.048978,-80.944482],[26.571773,-81.87102],[28.304094,-81.437004],[27.966622,-82.153582],[28.114184,-81.617853],[26.616239,-80.061457],[26.683074,-80.054343],[33.883339,-84.192725],[33.998677,-84.145887],[33.960413,-84.143716],[36.126618,-115.207123],[29.803024,-95.503549],[38.074664,-78.896524],[26.105593,-80.179249],[33.932048,-117.950852],[38.128229,-122.250167],[37.356179,-121.841137],[26.817636,-80.666313],[34.282942,-118.882134],[40.775296,-73.266453],[33.891377,-84.210305],[34.259079,-118.433587],[40.851223,-73.908145],[35.472274,-79.174341],[37.655128,-122.411357],[37.774925,-122.229016],[37.655125,-122.410729],[36.295438,-84.193361],[38.610461,-121.45788],[26.277094,-80.118938],[26.618082,-80.111582],[36.617973,-121.840542],[40.756455,-73.583854],[35.962191,-119.041636],[32.21377,-90.163796],[40.550988,-74.150432],[36.640335,-79.489169],[35.454751,-79.150889],[35.726304,-79.464037],[39.237128,-120.023097],[35.90817,-75.675777],[38.319482,-122.48593],[34.129463,-117.313799],[35.721914,-78.844465],[40.600364,-75.48528],[38.677012,-121.789492],[40.651513,-111.991724],[27.443863,-80.339331],[34.936048,-79.775103],[34.953365,-120.452738],[39.195197,-85.898722],[39.964314,-74.188025],[34.80245,-78.977881],[39.282682,-84.482201],[36.15912,-115.224736],[34.270319,-85.219427],[34.995751,-80.541327],[34.215136,-118.396782],[37.6308,-120.971931],[33.430517,-117.620721],[38.934192,-74.92019],[36.321413,-79.672937],[36.49035,-79.737048],[35.777784,-119.249618],[37.780707,-122.409702],[38.03073,-121.334998],[34.030838,-117.913522],[37.705816,-122.460841],[36.065131,-119.019344],[33.844576,-117.942149],[33.788027,-117.806504],[33.748308,-117.885738],[41.003301,-74.335469],[28.708253,-100.499193],[0,0],[28.709367,-100.479777],[35.791576,-78.764528],[37.964129,-121.336411],[34.284227,-83.838807],[34.279939,-119.278379],[37.961989,-122.345386],[38.743386,-121.268867],[35.672034,-78.511516],[37.736465,-84.311185],[37.24659,-121.889139],[37.478277,-122.225394],[35.976977,-78.936335],[34.063227,-117.639892],[28.261999,-81.433705],[42.373082,-71.034294],[34.164522,-118.364136],[26.372898,-98.874463],[33.745711,-117.884431],[33.831496,-117.991012],[35.37125,-118.971127],[40.814831,-73.996039],[34.107068,-118.203482],[36.185994,-115.115996],[34.181738,-118.150826],[34.047467,-118.285834],[34.119994,-118.183726],[34.067069,-117.688954],[40.717739,-73.621031],[40.842618,-73.708735],[35.174399,-80.904181],[36.75403,-120.383985],[38.107646,-122.569643],[35.454911,-79.15099],[38.959583,-85.889819],[35.616053,-119.693359],[35.364583,-119.03821],[39.095462,-121.551303],[37.774615,-122.219173],[38.451469,-121.822213],[33.987808,-117.901615],[37.7868,-122.237703],[35.484727,-79.160719],[44.941282,-123.036852],[31.791772,-106.261122],[33.944176,-117.39092],[36.136869,-115.192031],[26.68943,-80.057928],[37.963363,-122.505638],[37.783555,-122.222665],[38.429726,-122.727522],[38.472358,-122.739479],[41.931231,-87.756125],[32.532287,-96.823291],[33.863392,-84.307406],[36.755659,-120.381291],[37.924862,-122.347981],[40.852287,-73.934977],[37.950926,-121.289104],[37.329383,-121.884084],[39.918058,-75.101276],[35.584519,-80.556377],[40.279682,-75.297921],[34.021826,-118.204365],[39.277316,-84.563008],[37.351684,-121.869842],[33.866599,-84.289766],[33.884431,-84.220601],[34.201843,-118.467303],[40.85798,-74.351815],[37.288434,-120.501245],[37.770917,-122.19168],[33.98913,-83.426852],[35.726303,-78.539375],[26.37992,-98.813926],[40.985707,-80.340014],[35.885097,-78.263863],[36.851833,-121.401806],[38.056418,-78.496883],[37.783299,-122.222076],[34.060505,-80.942787],[38.693964,-75.389092],[35.27316,-80.76799],[38.956836,-85.88703],[34.281182,-83.784877],[38.619448,-121.457756],[26.703608,-80.099496],[26.21989,-80.130878],[40.679648,-73.886088],[26.609227,-80.057175],[34.057059,-118.269246],[40.324575,-75.32907],[40.859911,-73.892727],[34.169459,-118.396161],[40.867489,-80.279182],[33.889082,-118.152247],[37.464637,-122.157228],[35.722597,-79.463393],[35.655148,-79.764637],[36.131672,-80.243131],[36.019721,-79.805041],[32.278688,-90.121577],[35.024986,-85.276346],[35.720762,-79.468369],[32.612344,-90.047928],[35.741841,-79.643059],[35.790043,-78.76428],[36.074149,-80.232675],[35.448227,-79.146686],[33.49579,-117.668215],[39.816832,-86.271263],[41.588054,-85.832685],[33.891322,-84.381715],[37.314947,-121.021858],[40.884641,-74.558336],[38.250439,-122.631979],[38.644822,-121.458687],[38.454528,-121.823912],[38.63756,-121.430188],[38.589082,-121.306062],[33.996162,-118.436419],[37.323003,-121.923449],[27.97753,-82.827084],[40.82164,-72.644558],[33.896593,-118.176977],[33.911591,-84.382645]
+];
+var LocationData = [
+[42.384543,-83.083099,"9400 Woodward Ave Detroit, MI 48202 USA"],[39.809531,-86.174173,"2954 Doctor M.L.K. Jr St Indianapolis, IN 46208 USA"],[38.654313,-90.290345,"Mr. Nice Guy on Delmar,5892 Delmar Blvd, St Louis, MO 63112, USA"],[42.38611,-83.13985,"13325 Livernois Ave Detroit, MI 48238 USA"],[41.77030,-87.68297,"6759 S Western Ave Chicago, IL 60636 USA"],[41.751118,-87.604963,"7901 S Cottage Grove Ave Chicago, IL 60619 USA"],[42.386193,-83.236410,"19841 Schoolcraft Ave, Detroit, MI 48223, USA"],[42.384258,-82.967436,"3800 Conner Street, Detroit, MI 48215, USA"],[39.88629,-86.2119699," 7243 Michigan rd, Indianapolis Indiana, 46268"],[39.797363,-85.993065,"9846 E 21st St, Indianapolis, IN 46229, USA"],[41.86637910,-87.71073690,"3400 W Roosevelt Rd, Chicago, IL 60624, USA"],[39.9408081,-83.0563093,"2124 W. Mound St. Columbus OH 43223"],[40.0145681,-82.9840307,"1066 E. Hudson Columbus OH 43211"],[42.446764,-83.146705,"140 Pinecrest Dr, Ferndale, MI 48220, USA"],[42.416466,-83.180281,"13601 W McNichols Rd, Detroit, MI 48235, USA"],[33.9921635,-117.917386,"17800 Castleton Street Suite 580 City of Industry, CA 91748"],[41.720781,-87.7301077,"1355 w 127th Street  Calumet park, IL 60453"],[41.89579830,-87.63983520,"340 Superior St. Chicago IL 60654 "],[39.3611406,-76.64811755425,"Falls RD Baltimore MD 21210"],[39.3348011,-76.6746036,"4200 Wabash Ave Baltimore md 21215"],[39.3437175,-76.4515825,"601 Compas Rd Middle River MD 21220"],[42.4183088,-83.0580992,"12600 Gratiot Ave, Detroit, MI 48205"],[42.1990732,-83.2264347,"18900 Eureka Rd, Southgate, MI 48195"],[41.7933604,-87.666351,"5501 S Ashland Ave, Chicago, IL 60636 "]
+];
+
+
+
+function initialize()
+{
+
+
+	var map = new google.maps.Map(document.getElementById('map-canvas'));
+	var bounds = new google.maps.LatLngBounds();
+	var infowindow = new google.maps.InfoWindow();
+	
+	for (var i in LocationData)
+	{
+		var p = LocationData[i];
+		var latlng = new google.maps.LatLng(p[0], p[1]);
+		bounds.extend(latlng);
+		
+		var marker = new google.maps.Marker({
+			position: latlng,
+			map: map,
+			title: p[2]
+		});
+	
+		google.maps.event.addListener(marker, 'click', function() {
+			infowindow.setContent(this.title);
+			infowindow.open(map, this);
+		});
+	}
+	
+	map.fitBounds(bounds);
+
+	var map2 = new google.maps.Map(document.getElementById('map-canvas2'));
+	var bounds2 = new google.maps.LatLngBounds();
+	var infowindow2 = new google.maps.InfoWindow();
+	
+	for (var i in StoreData)
+	{
+		var p = StoreData[i];
+		var latlng = new google.maps.LatLng(p[0], p[1]);
+		bounds2.extend(latlng);
+		
+		var marker = new google.maps.Marker({
+			position: latlng,
+			map: map2,
+			title: p[2]
+		});
+	
+		google.maps.event.addListener(marker, 'click', function() {
+			infowindow.setContent(this.title);
+			infowindow.open(map2, this);
+		});
+	}
+	
+	map2.fitBounds(bounds2);
+
+
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+      
+
+</script>  
+
+
+    
+            <section class="map">
+                <div class="container">
+                    <h2 class="title">
+                        Location Maps:
+                    </h2>
+                    <center>
+                        <a class="btn btn-ex-lg bg-orange map-tab1" >KIOSK</a>
+                        <a class="btn btn-ex-lg btn-broder map-tab2 " >Payment</a> 	
+                    </center>
+ <div id="map-canvas" class="map" ></div>
+                 <div id="map-canvas2" class="map" ></div>
+
+                </div><!-- container-fluid --> 
+                  
+                 <div class="container seohome"> 
+                 <article>
+ 
+     <p> Bitcoin of  America is a popular virtual currency exchange which is registered with the  United States Department of Treasury. We are operating directly with all  digital currency users without intermediaries through a digital platform. With  the help of our platform, you can facilitate <a href="https://bitcoinofamerica.org/buycoins.asp"><strong>buying</strong></a> and <a href="https://bitcoinofamerica.org/sellcoins.asp"><strong>selling</strong></a> of digital currencies with ease.  Bitcoin of America uses an anti-money laundering monitor system and advanced  technologies which make transactions fast and easy. With us, you get the best  rate in the market and all transactions made by our platform are fast and safe. </p> 
+     <a class="read-more-show hide" href="#">Read More</a> <span class="read-more-content">           
+  <p>Bitcoin of  America is a reputed name in the industry, dedicated to offer top quality  services to all digital currency users. With us, you can make payments at the  store location, wire payments or use our <a href="https://bitcoinofamerica.org/bitcoin-atm-kiosk-locations.asp"><strong>virtual currency kiosks</strong></a> to buy digital currencies with ease.  Digital currency is becoming popular all around the globe and to match the  demand we are offering all of our customers fast and hassle free transaction  options. To ensure rapid service we require certain information such as  government-issued photo identification and other related information which  helps in carrying out the transaction easily and hassle free. These are laws  which we need to follow. </p>
+  
+  <p>Bitcoin of  America has been in this business for a long time and we are dedicated to  offering top-notch services to all our customers. Apart from ensuring a fast  and hassle free transaction, it is our customer support that makes us the best  in the industry. We have a dedicated customer support team available 24x7 to  address all your queries and problems. <a href="https://bitcoinofamerica.org/contact.asp"><strong>Drop us a  message</strong></a>, and we  will instantly address all your technical or transaction related queries.</p>
+  
+  <h3>What is Bitcoin?</h3> 
+  <p>Bitcoin is a  popular digital currency, and it can be used for buying products or services  with ease. This is a whole new currency which can be sent or received using the  internet. Bitcoin gives every user the opportunity to send money to any place  in the world in just a few seconds. It assures you borderless, permissionless, fast,  hassle-free and cheap access to the financial world.  In the past few years the popularity of  Bitcoin touched new heights, all because of its unique features and  specialties. Here are some of the intriguing facts about Bitcoin:</p>
+<ul>
+  <li>Bitcoin is a new payment system and  digital currency which can be used for both online and offline transactions. It  is a decentralized and autonomous currency which came into circulation in the  year 2009. <a href="https://en.wikipedia.org/wiki/Satoshi_Nakamoto"><strong>Satoshi Nakamoto</strong></a> invented Bitcoin, but very little is known about him.</li>
+  <li>The concept of Bitcoin is unique, it introduces  all users to the peer to peer system. Users can transact directly with this  digital currency, and unlike traditional currencies, you don't need assistance  from any third party or intermediaries. </li>
+  <li>Bitcoin is autonomous which means no  country, person, company or government owns this network. It is quite similar  to the Web.</li>
+  <li>All  bitcoin transactions are verified with network nodes and recorded in the Blockchain. </li>
+</ul>
+<p>Bitcoin of  America offers all digital currency users the fast and hassle-free option of  buying cryptocurrencies with ease. Our online services will help you locate  Bitcoin of America Kiosks near you for cheap, fast and secure exchanges. We are  one of the most popular and reputed names in the business. Bitcoin of America  guarantees you the best exchange rate and quality services.</p>
+  <h3>Where are we available?</h3> 
+ <p> Bitcoin of  America is installing kiosks at many places around the country. At present we  have BTM machines installed in cities like <a href="https://bitcoinofamerica.org/location/chicago/"><strong>Chicago</strong></a>, <a href="https://bitcoinofamerica.org/location/indianapolis/"><strong>Indianapolis</strong></a>, <a href="https://bitcoinofamerica.org/location/st-louis/"><strong>St. Louis</strong></a>, <a href="https://bitcoinofamerica.org/location/los-angeles/"><strong>Los  Angeles</strong></a>, <a href="https://bitcoinofamerica.org/location/baltimore/"><strong>Baltimore</strong></a>, <a href="https://bitcoinofamerica.org/location/columbus/"><strong>Columbus</strong></a>, and <a href="https://bitcoinofamerica.org/location/detroit/"><strong>Detroit</strong></a>. Bitcoin of America gives you the  option to carry out exchanges using Debit Card, Credit Card and PayPal easily  and securely. Locate our BTM machines or <a href="https://bitcoinofamerica.org/how-to-buy.asp"><strong>use our  online services</strong></a> to purchase digital currencies anytime and from any place. </p>
+<p>We have been  serving the needs of our customers for three years and have a team of  professionals who are skilled and well trained. We aim to help you get fast and  easy access to digital currencies. We have been consistently coming up with  changes so that we can match up to your expectations. Bitcoin of America exists  to make buying of digital currencies easy, use our online or BTM services for a  unique experience. </p>
+
+  <h3>Ways to Buy Digital Currencies</h3> 
+  <p>Bitcoin of  America is committed to customer satisfaction, and we are offering our  customers a wide range of options to buy digital currencies. Here are some of  the ways to buy digital currencies with us:</p>
+<ul>
+  <li><strong>Bank to Bank Wire</strong></li>
+</ul>
+<p>This  technique allows you to wire transfer request from the trading site and then  from the online banking account or bank teller at your convenience. Wire the  necessary amount to our bank account and get equivalent digital currencies  purchased easily and securely. It's fast and easy. </p>
+<ul>
+  <li><strong>Bitcoin Teller Machine or Bitcoin  Kiosk</strong></li>
+</ul>
+<p>Bitcoin of  America is coming up with BTM machines in many cities around the country.  Seeing the growing use and demand for digital currency, we are installing BTM  machines in many places. Enthusiasts can now use BTMs to buy digital currencies  using any currency of choice; the process is fast and easy. Bitcoin enthusiasts  can easily locate our BTM machines in cities like Indianapolis, Detroit,  Chicago, and St. Louis at ease. Want to buy Bitcoin? Use Bitcoin of America BTM  and get access to digital currencies in few seconds time. </p>
+<ul>
+  <li><strong>Store Payment Locations</strong></li>
+</ul>
+<p>Apart from  the options mentioned above, Bitcoin of America gives users access to 1,900  different stores from around the country. With time, digital currency  transactions are increasing, and hence we are coming up with various options.  Feel free to trade with us; we will never let you down. Locate nearest stores  and make payments at ease. </p>
+
+  <h3>Feel Safe and Secure</h3> 
+  <p>Bitcoin of America is a reputed name, and with us, all your  transactions are safe and secure. We are a registered MSB in the business. We  specialize in both large and small transactions; send money within few seconds  of time. All transactions are settled the same day, try out our services today! </p><a class="read-more-hide hide" href="#">Read Less</a> </span>
+    </article>
+   
+     <!--
+    <div class="linkssc"><a href="#">Read More</a></div>
+    -->
+  
+                
+ <p>&nbsp; </p>
+                 
+                 </div>
+            </section><!-- map--> 
+
+<!--Pop up starts...............>-->
+<section class="pop modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+	<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Um63OQz3bjo" frameborder="0" allowfullscreen></iframe>
+</section> 
+
+
+<section class="action mobile-device">
+                <div class="container-fluid">
+                    <p>
+                        Register With Bitcoin Of America
+                    </p>
+                    <a href="https://bitcoinofamerica.org/register.asp" class="btn btn-ex-lg bg-orange">Create Acount</a> 	
+                </div><!-- container-fluid -->
+            </section><!-- map-->
+
+
+
+            <footer id="footer" class="footer">
+                <div class="container-fluid">
+                    <div class="footer-uper">
+						<div class="col-md-4 col-sm-4">
+                        <div class="footer-col-1">
+                            <img src="https://www.bitcoinofamerica.org/images/logo.png" alt="bitcoinofamerica"> 
+                            <ul class="ads">                            
+
+                    		<li>Tel: 888-502-5003 </li>
+                    		<li>Email: support@bitcoinofamerica.org</li> 
+                                <li>MSB Registration Number: 31000100290754</li>
+                                <li>55 E. Monroe Street </li>
+                                <li>Suite 3800</li>
+                                 <li>Chicago IL 60603</li>
+                          
+                    	</ul> 
+                        </div><!-- footer-col-1 -->
+</div>
+<div class="col-md-2 col-sm-2">
+                        <div class="footer-col-2">
+                            <h3>Our Services</h3>
+                            <ul>
+                                <li><a href="https://bitcoinofamerica.org/buycoins.asp">Buy Bitcoins</a></li>
+                                <li><a href="https://bitcoinofamerica.org/sellcoins.asp">Sell Bitcoins </a></li>
+                                <li><a href="https://bitcoinofamerica.org/merchant.asp">Merchant Services</a></li>
+                                <li><a href="https://bitcoinofamerica.org/safe-secure.asp">Safe & Secure</a></li>
+                                <li><a href="https://bitcoinofamerica.org/how-it-works.asp">How It Works</a></li>
+								<li><a href="https://bitcoinofamerica.org/bitcoin-atm-kiosk-locations.asp">Kiosk</a></li>
+
+                            </ul>
+                        </div><!-- footer-col-1 -->
+</div>
+<div class="col-md-2 col-sm-2">
+
+                        <div class="footer-col-2">
+                            <h3>Quick Links</h3>
+                            <ul>
+                                <li><a href="https://bitcoinofamerica.org/about.asp">About Us</a></li>
+                                <li><a href="https://bitcoinofamerica.org/faq.asp">FAQ</a></li>
+                              <!--  <li><a href="http://www.idevaffiliate.com/32148/">Affiliate Program</a></li>-->
+                                <li><a href="https://bitcoinofamerica.org/blog/" target="_blank">Bitcoin Blog</a></li>
+                                <li><a href="https://bitcoinofamerica.org/privacy-policy.asp">Privacy Policy</a></li>
+                                <li><a href="https://bitcoinofamerica.org/aml.asp">AML/BSA</a></li>
+                                <li><a href="https://bitcoinofamerica.org/sitemap.asp">Sitemap</a></li>
+                            </ul>
+                            
+                        </div><!-- footer-col-1 -->
+</div>
+<div class="col-md-4 col-sm-4">
+
+                        <div class="footer-col-4">
+                            <h3>Subscribe</h3>
+                             
+<style>
+.wu { 
+    margin-top: 15px;
+}
+div#sib_embed_signup .sib-container{position:relative}
+.byline button {
+    position: absolute;
+    right: -5px;
+    top: 12px;
+}
+
+  div#sib_embed_signup .needsfilled input {border-color: #B94A48 !important; color: #B94A48 !important;}
+    div#sib_embed_signup .needsfilled {color: #B94A48 !important;}
+    div#sib_embed_signup input[type="text"] {border: 1px solid #aeaeae; 
+    background-color: #203047; 
+    padding: 0px 10px;
+    color: #fff;
+    font-size: 16px; }
+    div#sib_embed_signup div.message_area {position: relative;padding: 10px 30px 10px 10px; margin: 0px 0px 10px 0px;font-size:14px; border-radius: 5px;-webkit-border-radius: 5px; -moz-border-radius: 5px;box-sizing: border-box;}
+    div#sib_embed_signup div.message_area button.close {position: absolute;right: 8px;top: 8px;color: inherit;background: 0 0;border: 0;padding: 0px;-webkit-appearance: none;cursor: pointer;font-weight: bold;font-size: 14px;}
+    .tipicon{cursor: pointer;padding: 3px 7px;font-size: 12px;font-weight: bold;line-height: 1.2;color: #fff;text-align: center;vertical-align: baseline;background-color: #999;border-radius: 10px;text-decoration: none;}
+    .tooltip{display: inline;position: absolute;left: 97%;}
+    .tooltip:hover:after{background: #333;background: rgba(0,0,0,.8);border-radius: 5px;color: #fff;content: attr(data-title);right: -2px;bottom: 26px;padding: 5px 15px;position: absolute;z-index: 98;width: 220px;}
+    .tooltip_small:hover:after{padding: 5px 5px; width: 150px;}
+    .tooltip:hover:before{border: solid;border-color: #333 transparent;border-width: 6px 6px 0 6px;bottom: 20px;content: "";left: 1px;position: absolute;z-index: 99;}
+ 
+ 
+div#sib_embed_signup h1.title {font-size: 45px;}
+div#sib_embed_signup .sib-container .forms-builder-footer, div#sib_embed_signup .sib-container .description, div#sib_embed_signup .sib-container .fake-label, div#sib_embed_signup .sib-container .row, div#sib_embed_signup .sib-container #company-name{font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+div#sib_embed_signup .forms-builder-footer,div#sib_embed_signup div.description,div#sib_embed_signup .fake-label,div#sib_embed_signup .row  {font-size: 17px;}
+div#sib_embed_signup .sib-container .button {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+div#sib_embed_signup .button{font-size: 14px;}
+div#sib_embed_signup input {font-size: 13px;}
+div#sib_embed_signup .sib-containter h1 {color: #232323;}
+div#sib_embed_signup .sib-container {color: #343434;}
+div#sib_embed_signup .sib-container .button{color: #ffffff;}
+div#sib_embed_signup .sib-container .button{background: #050505;}
+div#sib_embed_signup .forms-builder-wrapper{ max-width: 540px;}   
+div#sib_embed_signup div.row{ padding:10px 20px; }
+div#sib_embed_signup input[type=text] {
+    padding: 8px 11px !important;
+    width: 222px!important; 
+    box-sizing: border-box;
+    margin-top: 2px;
+} 
+
+.nts img{ width:100%} 
+.footer-col-4 .container{width:100% !important}
+</style>
+<div id="sib_embed_signup">
+    <div class="forms-builder-wrapper" style="position:relative;margin-left: auto;margin-right: auto;">
+        <input type="hidden" id="sib_embed_signup_lang" value="en">
+        <input type="hidden" id="sib_embed_invalid_email_message" value="That email address is not valid. Please try again">
+	    <input type="hidden" name="primary_type" id="primary_type" value="email">
+        <div id="sib_loading_gif_area" style="position: absolute;z-index: 9999;display: none;">
+          <img src="https://my.sendinblue.com/public/theme/version4/assets/images/loader_sblue.gif" style="display: block;margin-left: auto;margin-right: auto;position: relative;top: 40%;">
+        </div>
+        <form class="description" id="theform" name="theform" action="https://my.sendinblue.com/users/subscribeembed/js_id/1tdj6/id/1" onsubmit="return false;">
+            <input type="hidden" name="js_id" id="js_id" value="1tdj6"><input type="hidden" name="listid" id="listid" value="108"><input type="hidden" name="from_url" id="from_url" value="yes"><input type="hidden" name="hdn_email_txt" id="hdn_email_txt" value="">
+            <div class="sib-container rounded">
+                
+               <input style="font-size: 13px; font-family: 'Trebuchet MS', Verdana, Tahoma, Geneva, sans-serif;" name="req_hid" id="req_hid" value="" type="hidden">
+               <div class="header" style="padding:0 20px;">
+                    <h1 class="title editable" data-editfield="newsletter_name" style="font-weight: normal; text-align: left; font-size: 45px; margin-bottom: 2px; padding: 0px; margin-top: 0px; font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(35, 35, 35); display: none;" >My Newsletter</h1>
+  		    <h3 id="company-name" style="font-weight: normal; text-align: left; font-size: 25px; margin-bottom: 12px; padding: 0px; margin-top: 0px; font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(52, 52, 52); display: none;" >By</h3>
+                </div>
+                    <div class="description editable" data-editfield="newsletter_description" style="padding: 0px 20px 15px; border-bottom: 1px solid rgb(204, 204, 204); font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(52, 52, 52); font-size: 17px; display: none;" >What type of content do you plan to share with your subscribers? </div>
+                    <div class="view-messages" style=" margin:5px 0;"> </div>
+                        <div class="email-group ui-sortable">
+                            <div class="row mandatory-email" style="padding: 10px 15px; position: relative; font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(52, 52, 52); font-size: 17px;">
+                                <div class="lbl-tinyltr" style="clear: both; float: none; font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;" >  </div>
+                                <input name="email" id="email" value="" type="text" style="padding: 10px 4px; width: 90%; min-width: auto;">
+                                <div style="clear:both;"></div>
+                                <div class="hidden-btns">
+                                    <a class="btn move" href="#"><i class="icon-move"></i></a><br>
+                                    
+                                </div>
+                            </div>
+                         </div>
+                         <div class="byline" style="color: rgb(52, 52, 52); font-weight: normal; font-size: 17px; text-align: left;">
+                         <button class="button editable " type="submit" data-editfield="subscribe" style="display: inline-block; white-space: nowrap; min-height: 40px; margin: 0px 5px 0px 0px; padding: 0px 22px; text-decoration: none; text-transform: uppercase; text-align: center; font-weight: normal; font-style: normal; font-size: 17px; cursor: pointer; border: 0px none; border-radius: 0px; vertical-align: top; height: auto; line-height: 150%; background:rgb(252, 74, 0);" >Subscribe</button></div>
+                         <div style="clear:both;"></div>
+                        </div>
+        </form>
+    </div>
+</div>
+
+</div>
+<script type="text/javascript">
+    var sib_prefix = 'sib';
+    var sib_dateformat = 'mm-dd-yyyy';
+</script>
+<script type='text/javascript' src='https://my.sendinblue.com/public/theme/version4/assets/js/src/subscribe-validate.js?v=1.0'></script>
+<script type='text/javascript'>
+    jQuery.noConflict(true);
+</script>
+
+<div class="row nts">
+<div class="col-md-6 col-sm-6">
+<div class="wu"><img src="https://www.bitcoinofamerica.org/images/wup.png" alt="WU"  />
+<div style="font-size: 13px;
+    text-align: center;
+    color: #fff;
+    font-weight: 400;">Agent # ACH123421 </div>
+</div>
+
+</div>
+<div class="col-md-6 col-sm-6">
+<h3 style="font-size:18px; color:#fff; margin-top:10px"> Bitcoin News  <a href="https://news.bitcoin.com/" target="_blank"><img src="https://www.bitcoinofamerica.org/images/bitcoin-logo-news.png" /></a></h3>
+<div style="    text-align: left;
+    margin-top: 5px;
+    margin-left: 0px;">
+<span id="cdSiteSeal1"><script type="text/javascript" src="//tracedseals.starfieldtech.com/siteseal/get?scriptId=cdSiteSeal1&amp;cdSealType=Seal1&amp;sealId=55e4ye7y7mb73c5ccb3c36ccb1f14pwjj3ay7mb7355e4ye7738d8d55c5f08cb0"></script></span>
+</div>
+</div>
+</div>  
+                           
+                        </div><!-- footer-col-1 -->
+
+                    </div><!-- footer-uper -->
+
+                    <div class="footer-bottom">
+
+                        <div class="col-md-4"></div>
+
+                        <div class="col-md-4 social">
+                            <a href="https://www.facebook.com/bitcoinofamerica" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="https://twitter.com/btcofamerica" target="_blank"><i class="fa fa-twitter"></i></a>
+                            <a href="https://plus.google.com/108012746882476554543" target="_blank"><i class="fa fa-google"></i></a>
+                            <a href="https://instagram.com/bitcoinofamerica" target="_blank"><i class="fa fa-rss"></i></a>
+                            <p>&copy; 2017. Bitcoin Of America. All Right Reserved.</p>
+
+                        </div>
+
+                        <div class="col-md-4"></div>
+
+                    </div><!-- footer bottom -->
+
+<!-- DISCLAIMER -->
+	<div id=disclaimer style="color:#FF9900"> 
+		<h3 style="font-size:20px; line-height:20px">Disclaimer</h3>
+		<p style="font-size:11px !important; line-height:11px !important">
+			Last update: July, 2017 
+			<br/>
+			Bitcoinofamerica.org takes legal and regulatory compliance very seriously.
+			Every effort is made to operate fully compliant with both Federal and State laws and regulations.
+			Bitcoinofamerica adopts Anti- Money Laundering and Know Your Customer Policy to prevent and mitigate possible risk and violations.
+			Currently we do not provide sales of virtual currency to residents from the following states: IA, NY, NH, CT, HI, GA, NC, NM and WA.
+			We are in the process of reviewing bit-license requirements in those states and hope to be able to serve you in the near future. 
+		</p>
+	</div>
+<!-- DISCLAIMER -->
+
+                </div><!-- container-fluid -->
+            </footer>
+
+        </div><!-- Page-wrap -->
+
+<script src="https://www.bitcoinofamerica.org/js/wow.min.js"></script>
+<script>
+	 new WOW().init();
+</script>
+<script type="text/javascript">
+	$(document).ready(function () {
+		$("#map-canvas").css({"margin-top":"30px"});
+		$("#map-canvas2").css({"visibility": "hidden","margin-top":"-350px"});
+		$(".map-tab1").click(function () {
+			$(".map-tab1").css({"background-color": "#fc4a00", "color": "#fff"});
+			$(".map-tab2").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$("#map-canvas2").css({"visibility": "hidden"});
+			$("#map-canvas").css({"visibility": "visible"});
+		});
+		$(".map-tab2").click(function () {
+			$(".map-tab2").css({"background-color": "#fc4a00", "color": "#fff"});
+			$(".map-tab1").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+
+			$("#map-canvas2").css({"visibility": "visible"});
+			$("#map-canvas").css({"visibility": "hidden"});
+
+		});
+	});
+
+	$(document).ready(function () {
+		$(".text2").hide();
+		$(".text3").hide();
+		$(".text4").hide();
+		$(".graph-tab1").click(function () {
+			$(".graph-tab1").css({"background-color": "#fc4a00", "color": "#fff"});
+			$(".graph-tab2").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".graph-tab3").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".graph-tab4").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".text1").show();
+			$(".text2").hide();
+			$(".text3").hide();
+			$(".text4").hide();
+		});
+		$(".graph-tab2").click(function () {
+			$(".graph-tab2").css({"background-color": "#fc4a00", "color": "#fff"});
+			$(".graph-tab1").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".graph-tab3").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".graph-tab4").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".text2").show();
+			$(".text1").hide();
+			$(".text3").hide();
+			$(".text4").hide();
+		});
+		$(".graph-tab3").click(function () {
+			$(".graph-tab3").css({"background-color": "#fc4a00", "color": "#fff"});
+			$(".graph-tab1").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".graph-tab2").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".graph-tab4").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".text3").show();
+			$(".text2").hide();
+			$(".text1").hide();
+			$(".text4").hide();
+		});
+		$(".graph-tab4").click(function () {
+			$(".graph-tab4").css({"background-color": "#fc4a00", "color": "#fff"});
+			$(".graph-tab1").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".graph-tab2").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".graph-tab3").css({"background-color": "#fff", "border-color": "#c5c5c5", "color": "#fc4a00"});
+			$(".text4").show();
+			$(".text2").hide();
+			$(".text3").hide();
+			$(".text1").hide();
+		});
+
+
+	});
+</script>
+
+<script type="text/javascript" src="https://www.bitcoinofamerica.org/js/owl.carousel.min.js"></script>
+<script type="text/javascript">
+	$('.owl-carousel').owlCarousel({
+		loop: true,
+		margin: 10,
+		nav: true,
+		responsive: {
+			0: {
+				items: 1
+			},
+			600: {
+				items: 1
+			},
+			1000: {
+				items: 1
+			}
+		}
+	})
+
+</script>
+        
+<script src="js/sc-menu2.js"></script> 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71268073-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Start of LiveChat (www.livechatinc.com) code -->
+<script type="text/javascript">
+window.__lc = window.__lc || {};
+window.__lc.license = 7305681;
+(function() {
+  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script>
+<!-- End of LiveChat code -->
+ 
+ <script type="text/javascript">
+      // Stuff to do as soon as the body finishes loading.
+      // No need for $(document).ready() here.
+   $('#scmenu').css('display','block');
+ </script>
+ <div itemscope itemtype="http://schema.org/Person" style="display:none">
+   <span itemprop="name">Bitcoin Of America</span>
+   <span itemprop="company">Bitcoin Of America</span>
+   <span itemprop="tel">888-502-5003</span>
+   <a itemprop="email" href="mailto:support@bitcoinofamerica.org">support@bitcoinofamerica.org</a>
+</div>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 976899940;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/976899940/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+</body>
+</html>
+<script type="text/javascript">
+    // Hide the extra content initially, using JS so that if JS is disabled, no problemo:
+$('.read-more-content').addClass('hide')
+$('.read-more-show, .read-more-hide').removeClass('hide')
+
+// Set up the toggle effect:
+$('.read-more-show').on('click', function(e) {
+  $(this).next('.read-more-content').removeClass('hide');
+  $(this).addClass('hide');
+  e.preventDefault();
+});
+
+// Changes contributed by @diego-rzg
+$('.read-more-hide').on('click', function(e) {
+  var p = $(this).parent('.read-more-content');
+  p.addClass('hide');
+  p.prev('.read-more-show').removeClass('hide'); // Hide only the preceding "Read More"
+  e.preventDefault();
+}); 
+    </script>

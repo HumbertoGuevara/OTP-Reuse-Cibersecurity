@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head >
+<meta charset="UTF-8" />
+<title>Jo Cooks - Pretty Darn Delicious Recipes</title><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- Social Warfare v2.3.3 https://warfareplugins.com -->
+<style>@font-face {font-family: "sw-icon-font";src:url("https://www.jocooks.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.eot?ver=2.3.3");src:url("https://www.jocooks.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.eot?ver=2.3.3#iefix") format("embedded-opentype"),url("https://www.jocooks.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.woff?ver=2.3.3") format("woff"), url("https://www.jocooks.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.ttf?ver=2.3.3") format("truetype"),url("https://www.jocooks.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.svg?ver=2.3.3#1445203416") format("svg");font-weight: normal;font-style: normal;}</style>
+<!-- Social Warfare v2.3.3 https://warfareplugins.com -->
+
+
+		<style type="text/css">
+			.slide-excerpt { width: 50%; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { right: 0; }
+			.flexslider { max-width: 1200px; max-height: 500px; }
+			.slide-image { max-height: 500px; }
+		</style>
+		<style type="text/css">
+			@media only screen
+			and (min-device-width : 320px)
+			and (max-device-width : 480px) {
+				.slide-excerpt { display: none !important; }
+			}
+		</style> 
+<!-- This site is optimized with the Yoast SEO Premium plugin v5.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Pretty Darn Delicious Recipes"/>
+<link rel="canonical" href="https://www.jocooks.com/" />
+<link rel="publisher" href="https://plus.google.com/106308743737724770388"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Jo Cooks - Pretty Darn Delicious Recipes" />
+<meta property="og:description" content="Pretty Darn Delicious Recipes" />
+<meta property="og:url" content="https://www.jocooks.com/" />
+<meta property="og:site_name" content="Jo Cooks" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.jocooks.com\/","name":"Jo Cooks","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.jocooks.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//a.optnmstr.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Jo Cooks &raquo; Feed" href="https://www.jocooks.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jo Cooks &raquo; Comments Feed" href="https://www.jocooks.com/comments/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wprm-public-css'  href='https://www.jocooks.com/wp-content/plugins/wp-recipe-maker/assets/css/public/public.min.css?ver=1.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tooltipster-css'  href='https://www.jocooks.com/wp-content/plugins/wp-recipe-maker/vendor/tooltipster/css/tooltipster.bundle.min.css?ver=1.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmp-public-css'  href='https://www.jocooks.com/wp-content/plugins/wp-recipe-maker-premium/assets/css/public/public.min.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='child-theme-css'  href='https://www.jocooks.com/wp-content/themes/restored316-divine/style.css?ver=2.5.3' type='text/css' media='all' />
+<style id='child-theme-inline-css' type='text/css'>
+
+		
+		.title-area,
+		button, input[type="button"], 
+		input[type="reset"], 
+		input[type="submit"], 
+		.button, 
+		.entry-content .button,
+		.enews-widget input[type="submit"],
+		.content .entry-header .entry-meta .entry-categories a:hover {
+			background: #e8b71a;
+		}
+		
+		.title-area {
+			outline-color: #e8b71a;
+		}
+		
+		a:hover,
+		.entry-title a:hover, 
+		.footer-widgets .entry-title a:hover {
+			color: #e8b71a;
+		}
+		
+		.woocommerce .woocommerce-message,
+		.woocommerce .woocommerce-info {
+			border-top-color: #e8b71a !important;
+		}
+		
+		.woocommerce .woocommerce-message::before,
+		.woocommerce .woocommerce-info::before,
+		.woocommerce div.product p.price,
+		.woocommerce div.product span.price,
+		.woocommerce ul.products li.product .price,
+		.woocommerce form .form-row .required {
+			color: #e8b71a !important;
+		}
+		
+		.woocommerce #respond input#submit, 
+		.woocommerce a.button, 
+		.woocommerce button.button, 
+		.woocommerce input.button,
+		.woocommerce span.onsale,
+		.easyrecipe .ui-button-text-icon-primary .ui-button-text, 
+		.easyrecipe .ui-button-text-icons .ui-button-text {
+			background-color: #e8b71a !important;
+		}
+		
+		
+
+		a,
+		.genesis-nav-menu li:hover,
+		.genesis-nav-menu a:hover,
+		.site-header .genesis-nav-menu a:hover,
+		.sidebar .widget-title a {
+			color: #28abe3;
+		}
+		
+		
+		}
+		
+</style>
+<link rel='stylesheet' id='wprm-template-css'  href='https://www.jocooks.com/wp-content/plugins/wp-recipe-maker/templates/recipe/tastefully-simple/tastefully-simple.min.css?ver=1.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmpuc-unit-conversion-css'  href='https://www.jocooks.com/wp-content/plugins/wp-recipe-maker-premium-unit-conversion/assets/css/public/unit-conversion.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='social_warfare-css'  href='https://www.jocooks.com/wp-content/plugins/social-warfare/css/style.min.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-css'  href='//fonts.googleapis.com/css?family=Didot%7COpen+Sans%3A400%2C300italic%2C300%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7COpen+Sans%3A400%2C600%2C700%2C400italic%2C600italic%2C700italic%2C300italic%2C300%7CQuicksand%3A400%2C700&#038;ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.jocooks.com/wp-includes/css/dashicons.min.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='https://www.jocooks.com/wp-content/plugins/simple-social-icons/css/style.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slider_styles-css'  href='https://www.jocooks.com/wp-content/plugins/genesis-responsive-slider/style.css?ver=0.9.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.jocooks.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.jocooks.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.jocooks.com/wp-content/themes/genesis/lib/js/html5shiv.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.jocooks.com/wp-content/themes/restored316-divine/js/responsive-menu.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.jocooks.com/wp-content/plugins/simple-social-icons/svgxuse.js?ver=1.1.21'></script>
+<script type='text/javascript' data-cfasync="false" id="omapi-script" async="async" src='//a.optnmstr.com/app/js/api.min.js?ver=1.3.2'></script>
+<link rel='https://api.w.org/' href='https://www.jocooks.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.jocooks.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.jocooks.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+<style type="text/css"> .enews .screenread {
+	height: 1px;
+    left: -1000em;
+    overflow: hidden;
+    position: absolute;
+    top: -1000em;
+    width: 1px; } </style><style type="text/css"> html body .wprm-recipe-container { color: #333333; } html body .wprm-recipe-container .wprm-recipe { background-color: #ffffff; } html body .wprm-recipe-container .wprm-recipe { border-color: #aaaaaa; } html body .wprm-recipe-container .wprm-recipe .wprm-color-border { border-color: #aaaaaa; } html body .wprm-recipe-container a { color: #28abe3; } html body .wprm-recipe-container .wprm-recipe .wprm-color-header { color: #000000; } html body .wprm-recipe-container h1 { color: #000000; } html body .wprm-recipe-container h2 { color: #000000; } html body .wprm-recipe-container h3 { color: #000000; } html body .wprm-recipe-container h4 { color: #000000; } html body .wprm-recipe-container h5 { color: #000000; } html body .wprm-recipe-container h6 { color: #000000; } html body .wprm-recipe-container svg path { fill: #343434; } html body .wprm-recipe-container svg rect { fill: #343434; } html body .wprm-recipe-container svg polygon { stroke: #343434; } html body .wprm-recipe-container .wprm-rating-star-full svg polygon { fill: #343434; } html body .wprm-recipe-container .wprm-recipe .wprm-color-accent { background-color: #2c3e50; } html body .wprm-recipe-container .wprm-recipe .wprm-color-accent { color: #ffffff; } html body .wprm-recipe-container .wprm-recipe .wprm-color-accent2 { background-color: #3498db; } html body .wprm-recipe-container .wprm-recipe .wprm-color-accent2 { color: #ffffff; } html body .wprm-recipe-container li.wprm-recipe-ingredient { list-style-type: disc; } html body .wprm-recipe-container li.wprm-recipe-instruction { list-style-type: decimal; } .wprm-comment-rating svg path, .comment-form-wprm-rating svg path { fill: #343434; } .wprm-comment-rating svg polygon, .comment-form-wprm-rating svg polygon { stroke: #343434; }</style><link rel="icon" href="https://www.jocooks.com/wp-content/themes/restored316-divine/images/favicon.ico" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20486827-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<style type="text/css">.site-title a { background: url(https://www.jocooks.com/wp-content/uploads/2016/05/header.png) no-repeat !important; }</style>
+<script data-cfasync="false" type="text/javascript">
+  var MySlots = {};
+  var blogherads = blogherads || {};
+  blogherads.adq = blogherads.adq || [];
+  blogherads.adq.push(function() {
+        MySlots.responsiveHeader= blogherads.defineResponsiveSlot([
+              [[728, 0], 'Top'],
+              [[727, 0], 'none'],
+              [[0, 0], 'MobileContent']
+            ], 'responsive-header-ad');
+});  (function(d) {
+    var bhads = d.createElement('script');
+    bhads.async = true; bhads.type = 'text/javascript';
+    bhads.src = '//ads.blogherads.com/bh/20/203/203413/922215/header.js';
+    var node = d.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(bhads, node);
+  })(document);
+</script>
+ <style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #FFFFFF !important; border-radius: 0px; color: #e8b71a !important; border: 0px #FFFFFF solid !important; font-size: 20px; padding: 10px; }  .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #FFFFFF !important; border-color: #FFFFFF !important; color: #b40916 !important; }  .simple-social-icons ul li a:focus { outline: 1px dotted #FFFFFF !important; }</style><style type='text/css'>
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+<script data-no-minify="1" data-cfasync="false">(function(w,d){function a(){var b=d.createElement("script");b.async=!0;b.src="https://www.jocooks.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload.1.0.5.min.js";var a=d.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)}w.attachEvent?w.attachEvent("onload",a):w.addEventListener("load",a,!1)})(window,document);</script></head>
+<body class="home blog custom-header header-image content-sidebar divine-home" itemscope itemtype="https://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><h1 class="site-title" itemprop="headline"><a href="https://www.jocooks.com/">Jo Cooks</a></h1><p class="site-description" itemprop="description">Pretty Darn Delicious Recipes</p></div><div class="widget-area header-widget-area"><section id="text-61" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div id="ad-leader"><div id="responsive-header-ad"></div>
+    <script type="text/javascript">
+      blogherads.adq.push(function() {
+        // Display the responsive header ad
+        MySlots.responsiveHeader.display();
+      });
+    </script></div></div>
+		</div></section>
+<section id="simple-social-icons-6" class="widget simple-social-icons"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="http://www.facebook.com/JoCooksRecipes" target="_blank"><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-gplus"><a href="https://plus.google.com/+JoCismaru" target="_blank"><svg role="img" class="social-gplus" aria-labelledby="social-gplus"><title id="social-gplus">Google+</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-gplus"></use></svg></a></li><li class="ssi-instagram"><a href="http://instagram.com/jocooks" target="_blank"><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="http://pinterest.com/jocooks" target="_blank"><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/jocooks_com" target="_blank"><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/JoCismaru" target="_blank"><svg role="img" class="social-youtube" aria-labelledby="social-youtube"><title id="social-youtube">YouTube</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+</div></div></header><nav class="nav-primary" itemscope itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-jocooks" class="menu genesis-nav-menu menu-primary"><li id="menu-item-12840" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12840"><a href="https://www.jocooks.com/category/recipes/" itemprop="url"><span itemprop="name">Recipes</span></a></li>
+<li id="menu-item-13705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13705"><a href="http://www.jocooks.com/category/recipes/?fwp_recipes=dinner%2Cone-pot" itemprop="url"><span itemprop="name">One Pot</span></a></li>
+<li id="menu-item-14457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14457"><a title="Cookbook" href="http://www.jocooks.com/cookbook/" itemprop="url"><span itemprop="name">Cookbook</span></a></li>
+<li id="menu-item-10141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10141"><a href="https://www.jocooks.com/blog/" itemprop="url"><span itemprop="name">Blog</span></a></li>
+<li id="menu-item-7458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7458"><a href="https://www.jocooks.com/about/" itemprop="url"><span itemprop="name">About Jo</span></a></li>
+<li class="right search"><form class="search-form" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" method="get" action="https://www.jocooks.com/" role="search"><meta itemprop="target" content="https://www.jocooks.com/?s={s}"/><input itemprop="query-input" type="search" name="s" placeholder="Search this website &#x2026;" /><input type="submit" value="Search"  /></form></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><div class="before-content widget-area"><div class="wrap"><section id="featured-post-35" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">Make this for Dinner!</h4>
+<!--fwp-loop--><article class="post-15711 post type-post status-publish format-standard has-post-thumbnail category-dinner category-featured category-healthy-eating category-instant-pot category-poultry-main-courses category-recipes tag-chicken tag-chicken-thighs tag-garlic-sauce tag-hummus tag-instant-pot entry"><a href="https://www.jocooks.com/recipes/instant-pot-chicken-shawarma/" class="alignnone" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/10/instant-pot-chicken-shawarma-1-3-400x600.jpg" class="entry-image attachment-post" alt="Instant Pot Chicken Shawarma" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/instant-pot-chicken-shawarma/">Instant Pot Chicken Shawarma</a></h2></header></article><article class="post-8995 post type-post status-publish format-standard has-post-thumbnail category-beef-main-courses category-dinner category-featured category-one-pot category-recipes tag-beans tag-beef tag-cheese tag-chili tag-green-chiles tag-ground-beef tag-one-pot entry"><a href="https://www.jocooks.com/recipes/one-pot-chili-mac-and-cheese/" class="alignnone" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2014/07/one-pot-chili-mac-and-cheese-1-2-400x600.jpg" class="entry-image attachment-post" alt="One Pot Chili Mac and Cheese" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/one-pot-chili-mac-and-cheese/">One Pot Chili Mac and Cheese</a></h2></header></article><article class="post-15551 post type-post status-publish format-standard has-post-thumbnail category-dinner category-featured category-instant-pot category-one-pot category-poultry-main-courses category-recipes category-winter-comfort tag-chicken tag-coriander tag-garam-masala tag-instant-pot tag-turmeric tag-whipping-cream entry"><a href="https://www.jocooks.com/recipes/instant-pot-butter-chicken/" class="alignnone" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/09/instant-pot-butter-chicken-1-2-400x600.jpg" class="entry-image attachment-post" alt="Instant Pot Butter Chicken" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/instant-pot-butter-chicken/">Instant Pot Butter Chicken</a></h2></header></article></div></section>
+<section id="enews-ext-2" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><h4 class="widget-title widgettitle">Stay up to date</h4>
+<p>ENTER EMAIL TO SUBSCRIBE AND GET A FREE EBOOK</p>
+			<form id="subscribeenews-ext-2" action="//jocooks.us10.list-manage.com/subscribe/post?u=5ba57158846b6743ab030d3cb&amp;id=aba32560a5" method="post"  target="_blank" onsubmit="if ( subbox1.value == 'First Name') { subbox1.value = ''; } if ( subbox2.value == 'Last Name') { subbox2.value = ''; }" name="enews-ext-2">
+				<label for="subbox1" class="screenread">First Name</label><input type="text" id="subbox1" class="enews-subbox" value="" placeholder="First Name" name="FNAME" />				<label for="subbox2" class="screenread">Last Name</label><input type="text" id="subbox2" class="enews-subbox" value="" placeholder="Last Name" name="LNAME" />				<label for="subbox" class="screenread">E-Mail Address</label><input type="email" value="" id="subbox" placeholder="E-Mail Address" name="EMAIL" required="required" />
+								<input type="submit" value="Go" id="subbutton" />
+			</form>
+		</div></div></section>
+</div></div><main class="content"><div class="home-slider widget-area"><section id="text-68" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+<div id="player"></div>
+<script>
+      // 2. This code loads the IFrame Player API code asynchronously.
+      var tag = document.createElement('script');
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+      // 3. This function creates an <iframe> (and YouTube player)
+      //    after the API code downloads.
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '526',
+          width: '640',
+          playerVars: 
+          {
+            listType:'playlist',
+            list: 'PLiv5YgO4koqtkiG5DMaxcoynp8p2unwq-'
+          },
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+        });
+
+      }
+      // 4. The API will call this function when the video player is ready.
+      function onPlayerReady(event) {
+           event.target.setVolume(0);
+       event.target.playVideo();
+      }
+      // 5. The API calls this function when the player's state changes.
+      //    The function indicates that when playing a video (state=1),
+      //    the player should play for six seconds and then stop.
+      var done = false;
+      function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.PLAYING && !done) {
+    //      setTimeout(stopVideo, 6000);
+                  done = true;
+        }
+           event.target.setVolume(0);
+      }
+</script></div>
+		</div></section>
+</div><div class="home-top widget-area"><section id="featured-post-36" class="widget featured-content featuredpost"><div class="widget-wrap"><article class="post-15714 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-beef-main-courses category-healthy-eating category-lunch-2 category-recipes tag-coconut-oil tag-ground-beef tag-lettuce tag-peanut-butter tag-red-curry-paste entry"><a href="https://www.jocooks.com/recipes/thai-meatball-lettuce-wraps/" class="alignleft" aria-hidden="true"><img width="400" height="400" src="https://www.jocooks.com/wp-content/uploads/2017/10/thai-meatball-lettuce-wraps-1-6-400x400.jpg" class="entry-image attachment-post" alt="Thai Meatball Lettuce Wraps" itemprop="image" srcset="https://www.jocooks.com/wp-content/uploads/2017/10/thai-meatball-lettuce-wraps-1-6-400x400.jpg 400w, https://www.jocooks.com/wp-content/uploads/2017/10/thai-meatball-lettuce-wraps-1-6-125x125.jpg 125w" sizes="(max-width: 400px) 100vw, 400px" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/thai-meatball-lettuce-wraps/">Thai Meatball Lettuce Wraps</a></h2></header><div class="entry-content"><p>These irresistible Thai Meatball lettuce wraps with peanut sauce are packed with flavors, crispy on the outside, tender on the inside and the perfect lunch or appetizer!
+
+
+
+It’s time for Monday Meatball Mania again! I went ahead and counted the number of meatball recipes that I actually have on my blog and I am proud to say I have over 30 meatball recipes. Can I just call myself the meatball queen? ... <a class="more-link" href="https://www.jocooks.com/recipes/thai-meatball-lettuce-wraps/">continue reading...</a></p></div></article><article class="post-15745 post type-post status-publish format-standard has-post-thumbnail category-desserts-2 category-halloween category-recipes category-squares tag-brown-sugar tag-candy tag-cocoa-powder tag-eggs entry"><a href="https://www.jocooks.com/recipes/halloween-candy-brownies/" class="alignleft" aria-hidden="true"><img width="400" height="400" src="https://www.jocooks.com/wp-content/uploads/2017/10/halloween-candy-brownies-1-5-400x400.jpg" class="entry-image attachment-post" alt="Halloween Candy Brownies" itemprop="image" srcset="https://www.jocooks.com/wp-content/uploads/2017/10/halloween-candy-brownies-1-5-400x400.jpg 400w, https://www.jocooks.com/wp-content/uploads/2017/10/halloween-candy-brownies-1-5-125x125.jpg 125w" sizes="(max-width: 400px) 100vw, 400px" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/halloween-candy-brownies/">Halloween Candy Brownies</a></h2></header><div class="entry-content"><p>These Halloween Candy Brownies are fudgy, rich, chocolatey and decadent. Each bite will be a surprise as there is lots of assorted candy hidden in each brownie! Perfect for your leftover halloween candy!
+
+
+
+Halloween is less than a week away and I just have to give you one more Halloween recipe and that is these awesome brownies. From the outside they may look like just ordinary brownies, but trust me they are anything but ordinary inside, because at the bottom they are loaded with halloween candy. Which is why these are perfect not only for Halloween, but right after Halloween, to use up all that leftover candy. ... <a class="more-link" href="https://www.jocooks.com/recipes/halloween-candy-brownies/">continue reading...</a></p></div></article></div></section>
+<section id="text-57" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><a class="button" href="http://www.jocooks.com/blog/">read more from the blog</a></div>
+		</div></section>
+</div><div class="home-bottom"><div class="home-triple-bottom widget-area"><section id="featured-post-47" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">Dinner Recipes to Try</h4>
+<!--fwp-loop--><article class="post-15660 post type-post status-publish format-standard has-post-thumbnail category-beef-main-courses category-casseroles category-dinner category-one-pot category-recipes category-winter-comfort tag-ground-beef tag-long-grain-rice tag-meatballs tag-milk tag-tomato-soup entry"><a href="https://www.jocooks.com/recipes/porcupine-meatballs/" class="alignnone" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/10/porcupine-meatballs-1-2-400x600.jpg" class="entry-image attachment-post" alt="Porcupine Meatballs" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/porcupine-meatballs/">Porcupine Meatballs</a></h2></header></article><article class="post-775 post type-post status-publish format-standard has-post-thumbnail category-dinner category-main-courses category-one-pot category-recipes category-seafood tag-bacon tag-noodles tag-pasta tag-shrimp tag-shrimp-scampi tag-shrimp-scampi-recipe tag-shrimp-scampi-with-bacon tag-shrimp-scampi-with-bacon-recipe tag-tomatoes entry"><a href="https://www.jocooks.com/recipes/shrimp-scampi-with-bacon/" class="alignnone" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2011/04/shrimp-scampi-1-5-400x600.jpg" class="entry-image attachment-post" alt="Shrimp Scampi with Bacon" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/shrimp-scampi-with-bacon/">Shrimp Scampi with Bacon</a></h2></header></article><article class="post-15634 post type-post status-publish format-standard has-post-thumbnail category-dinner category-healthy-eating category-lunch-2 category-recipes category-salads category-thanksgiving tag-balsamic-vinaigrette tag-butternut-squash tag-chicken-breast tag-craisins tag-kale tag-pumpkin-seeds entry"><a href="https://www.jocooks.com/recipes/warm-kale-salad-with-roasted-butternut-squash/" class="alignnone" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/09/warm-kale-salad-with-roasted-butternut-squash-and-balsamic-vinaigrette-1-2-400x600.jpg" class="entry-image attachment-post" alt="Warm Kale Salad with Roasted Butternut Squash" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/warm-kale-salad-with-roasted-butternut-squash/">Warm Kale Salad with Roasted Butternut Squash</a></h2></header></article></div></section>
+<section id="featured-post-37" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">Healthy Recipes</h4>
+<!--fwp-loop--><article class="post-10933 post type-post status-publish format-standard has-post-thumbnail category-dinner category-healthy-eating category-poultry-main-courses category-recipes tag-chicken tag-drumsticks tag-garlic tag-oregano tag-paprika tag-smoked-paprika entry"><a href="https://www.jocooks.com/recipes/garlic-and-paprika-chicken/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2015/08/garlic-paprika-chicken-1-400x600.jpg" class="entry-image attachment-post" alt="Garlic and Paprika Chicken" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/garlic-and-paprika-chicken/">Garlic and Paprika Chicken</a></h2></header></article><article class="post-15711 post type-post status-publish format-standard has-post-thumbnail category-dinner category-featured category-healthy-eating category-instant-pot category-poultry-main-courses category-recipes tag-chicken tag-chicken-thighs tag-garlic-sauce tag-hummus tag-instant-pot entry"><a href="https://www.jocooks.com/recipes/instant-pot-chicken-shawarma/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/10/instant-pot-chicken-shawarma-1-3-400x600.jpg" class="entry-image attachment-post" alt="Instant Pot Chicken Shawarma" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/instant-pot-chicken-shawarma/">Instant Pot Chicken Shawarma</a></h2></header></article><article class="post-15634 post type-post status-publish format-standard has-post-thumbnail category-dinner category-healthy-eating category-lunch-2 category-recipes category-salads category-thanksgiving tag-balsamic-vinaigrette tag-butternut-squash tag-chicken-breast tag-craisins tag-kale tag-pumpkin-seeds entry"><a href="https://www.jocooks.com/recipes/warm-kale-salad-with-roasted-butternut-squash/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/09/warm-kale-salad-with-roasted-butternut-squash-and-balsamic-vinaigrette-1-2-400x600.jpg" class="entry-image attachment-post" alt="Warm Kale Salad with Roasted Butternut Squash" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/warm-kale-salad-with-roasted-butternut-squash/">Warm Kale Salad with Roasted Butternut Squash</a></h2></header></article><p class="more-from-category"><a href="https://www.jocooks.com/category/healthy-eating/" title="Healthy Eating">click here for more healthy recipes</a></p></div></section>
+<section id="featured-post-39" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">lunch recipes</h4>
+<!--fwp-loop--><article class="post-14407 post type-post status-publish format-standard has-post-thumbnail category-beef-main-courses category-dinner category-lunch-2 category-one-pot category-recipes category-soups tag-beef tag-egg-noodles tag-mushrooms tag-sour-cream entry"><a href="https://www.jocooks.com/recipes/beef-stroganoff-soup/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/04/beef-stroganoff-soup-1-400x600.jpg" class="entry-image attachment-post" alt="Beef Stroganoff Soup" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/beef-stroganoff-soup/">Beef Stroganoff Soup</a></h2></header></article><article class="post-3208 post type-post status-publish format-standard has-post-thumbnail category-dinner category-healthy-eating category-lunch-2 category-poultry-main-courses category-recipes tag-bourbon tag-bourbon-chicken tag-bourbon-chicken-recipe tag-brown-sugar tag-chicken tag-chicken-recipe tag-garlic tag-ginger tag-soy-sauce entry"><a href="https://www.jocooks.com/healthy-eating/jos-bourbon-chicken/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2012/04/bourbon-chicken-1-1-400x600.jpg" class="entry-image attachment-post" alt="Bourbon Chicken" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/healthy-eating/jos-bourbon-chicken/">Bourbon Chicken</a></h2></header></article><article class="post-14421 post type-post status-publish format-standard has-post-thumbnail category-easter category-lunch-2 category-recipes category-side-dishes category-vegeterian tag-eggs tag-macaroni tag-mayonnaise tag-mustard tag-olives tag-pickles entry"><a href="https://www.jocooks.com/recipes/deviled-egg-macaroni-salad/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/04/deviled-egg-macaroni-salad-1-400x600.jpg" class="entry-image attachment-post" alt="Deviled Egg Macaroni Salad" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/deviled-egg-macaroni-salad/">Deviled Egg Macaroni Salad</a></h2></header></article><p class="more-from-category"><a href="https://www.jocooks.com/category/lunch-2/" title="Lunch">click here for more lunch recipes</a></p></div></section>
+<section id="featured-post-38" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">Breakfast</h4>
+<!--fwp-loop--><article class="post-14239 post type-post status-publish format-standard has-post-thumbnail category-breakfast-2 category-easter category-healthy-eating category-muffins-bakery category-recipes category-spring-time tag-allspice tag-buttermilk tag-carrot-cake tag-carrots tag-ginger entry"><a href="https://www.jocooks.com/recipes/carrot-cake-muffins/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/03/carrot-cake-muffins-1-2-400x600.jpg" class="entry-image attachment-post" alt="Carrot Cake Muffins" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/carrot-cake-muffins/">Carrot Cake Muffins</a></h2></header></article><article class="post-14060 post type-post status-publish format-standard has-post-thumbnail category-breads category-breakfast-2 category-desserts-2 category-mothers-day category-recipes category-sweet-breads tag-blueberries tag-glaze tag-lemon tag-lemon-zest tag-yogurt entry"><a href="https://www.jocooks.com/recipes/lemon-blueberry-yogurt-loaf/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/02/lemon-blueberry-loaf-1-400x600.jpg" class="entry-image attachment-post" alt="Lemon Blueberry Yogurt Loaf" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/lemon-blueberry-yogurt-loaf/">Lemon Blueberry Yogurt Loaf</a></h2></header></article><article class="post-13438 post type-post status-publish format-standard has-post-thumbnail category-breakfast-2 category-casseroles category-poultry-main-courses category-recipes tag-cheese tag-chicken tag-enchilada-sauce tag-sour-cream tag-tex-mex tag-tortilla-chips tag-turkey entry"><a href="https://www.jocooks.com/recipes/tex-mex-chilaquiles/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2016/11/tex-mex-chilaquiles-1-5-400x600.jpg" class="entry-image attachment-post" alt="Tex Mex Chilaquiles" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/tex-mex-chilaquiles/">Tex Mex Chilaquiles</a></h2></header></article><p class="more-from-category"><a href="https://www.jocooks.com/category/breakfast-2/" title="Breakfast">click here for more breakfast recipes</a></p></div></section>
+<section id="featured-post-40" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">one pot wonders</h4>
+<!--fwp-loop--><article class="post-15450 post type-post status-publish format-standard has-post-thumbnail category-casseroles category-dinner category-one-pot category-poultry-main-courses category-recipes tag-chicken tag-chicken-broth tag-chicken-thighs tag-lemon tag-rice entry"><a href="https://www.jocooks.com/recipes/lemon-chicken-rice-bake/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/08/lemon-chicken-rice-casserole-1-400x600.jpg" class="entry-image attachment-post" alt="Lemon Chicken Rice Bake" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/lemon-chicken-rice-bake/">Lemon Chicken Rice Bake</a></h2></header></article><article class="post-14562 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-beef-main-courses category-casseroles category-cinco-de-mayo category-dinner category-game-day category-pork-main-courses category-recipes tag-cilantro tag-enchilada-sauce tag-ground-beef tag-ground-pork tag-jalapenos tag-meatballs tag-monterey-jack-cheese tag-oregano entry"><a href="https://www.jocooks.com/recipes/enchilada-meatball-bake/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/05/enchilada-meatball-bake-1-400x600.jpg" class="entry-image attachment-post" alt="Enchilada Meatball Bake" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/enchilada-meatball-bake/">Enchilada Meatball Bake</a></h2></header></article><article class="post-14465 post type-post status-publish format-standard has-post-thumbnail category-beef-main-courses category-casseroles category-cinco-de-mayo category-dinner category-recipes category-winter-comfort tag-cheese tag-cornmeal tag-enchilada-sauce tag-ground-beef tag-tamale entry"><a href="https://www.jocooks.com/recipes/beef-tamale-casserole/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/04/beef-tamale-casserole-1-6-400x600.jpg" class="entry-image attachment-post" alt="Beef Tamale Casserole" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/beef-tamale-casserole/">Beef Tamale Casserole</a></h2></header></article><article class="post-14396 post type-post status-publish format-standard has-post-thumbnail category-casseroles category-dinner category-lamb category-one-pot category-recipes tag-carrots tag-cumin tag-golden-raisins tag-lamb-2 tag-pistachios tag-tagine entry"><a href="https://www.jocooks.com/recipes/lamb-and-chickpea-tagine/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/04/lamb-and-chickpea-tagine-1-5-400x600.jpg" class="entry-image attachment-post" alt="Lamb and Chickpea Tagine" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/lamb-and-chickpea-tagine/">Lamb and Chickpea Tagine</a></h2></header></article><article class="post-14375 post type-post status-publish format-standard has-post-thumbnail category-casseroles category-dinner category-one-pot category-poultry-main-courses category-recipes tag-bell-peppers tag-chicken-thighs tag-green-olives tag-rice tag-smoked-paprika tag-tomatoes entry"><a href="https://www.jocooks.com/recipes/one-pot-spanish-chicken-and-rice/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/04/one-pot-spanish-chicken-and-rice-1-4-400x600.jpg" class="entry-image attachment-post" alt="One Pot Spanish Chicken and Rice" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/one-pot-spanish-chicken-and-rice/">One Pot Spanish Chicken and Rice</a></h2></header></article><article class="post-14326 post type-post status-publish format-standard has-post-thumbnail category-breakfast-2 category-casseroles category-easter category-recipes tag-hash-browns tag-milk tag-mozzarella-cheese tag-mushrooms tag-peppers tag-potatoes tag-sausage entry"><a href="https://www.jocooks.com/recipes/sausage-potato-breakfast-casserole/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/03/sausage-potato-breakfast-casserole-1-400x600.jpg" class="entry-image attachment-post" alt="Sausage Potato Breakfast Casserole" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/sausage-potato-breakfast-casserole/">Sausage Potato Breakfast Casserole</a></h2></header></article><p class="more-from-category"><a href="https://www.jocooks.com/category/casseroles/" title="Casseroles">click here for more one pot recipes</a></p></div></section>
+</div></div></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="https://schema.org/WPSideBar"><section id="user-profile-3" class="widget user-profile"><div class="widget-wrap"><h4 class="widget-title widgettitle">Meet Jo</h4>
+<p><span class="alignright"><img alt='' src='https://secure.gravatar.com/avatar/d46cf2bfdd57c5e3a6c87cdd88142462?s=125&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d46cf2bfdd57c5e3a6c87cdd88142462?s=250&amp;d=mm&amp;r=g 2x' class='avatar avatar-125 photo' height='125' width='125' /></span></p>
+<div style="font-size: 14px;">I'm Joanna (Jo for short) and this is my blog where I share with you my culinary adventures. Here you will find a variety of recipes using simple everyday ingredients and creating wonderful, delicious and comforting meals, including some decadent desserts.</div>
+<p> <a class="pagelink" href="https://www.jocooks.com/about/">Read More…</a></p>
+</div></section>
+<section id="text-55" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">My Cookbook</h4>
+			<div class="textwidget"><div align="center"><a href="https://www.jocooks.com/other/30-minute-one-pot-meals-is-live-giveaway/"><img src="https://www.jocooks.com/wp-content/uploads/2017/02/3D-book-cover-template-for-FBC.jpg" title="30-Minute One-Pot Meals cookbook" alt="30-Minute One-Pot Meals cookbook" nopin = "nopin" /></a></div>
+<div align="center"><div style="font-size: 12px;">
+ORDER NOW: <a href="https://api.viglink.com/api/click?format=go&jsonp=vglnk_146109610163812&key=605faf2415527d1b203f4b438c5ceea5&libId=in7uhqlx01011sri000DAnt23r2tb&loc=http%3A%2F%2Fwww.jocooks.com%2Fbreakfast-2%2Feggs-cheesy-purgatory%2F&v=1&out=https%3A%2F%2Fwww.amazon.com%2F30-Minute-One-Pot-Meals-Incredible-Cleanup%2Fdp%2F1624142486%2Fref%3Dsr_1_10%3Fie%3DUTF8%26qid%3D1461091414%26sr%3D8-10%26keywords%3D30%2Bminute%2Bone%2Bpot%2Bmeals&ref=http%3A%2F%2Fwww.jocooks.com%2F&title=Eggs%20in%20Cheesy%20Purgatory%20-%20Jo%20Cooks&txt=AMAZON">AMAZON</a> | <a href="http://api.viglink.com/api/click?format=go&jsonp=vglnk_146109613240714&key=605faf2415527d1b203f4b438c5ceea5&libId=in7uhqlx01011sri000DAnt23r2tb&loc=http%3A%2F%2Fwww.jocooks.com%2Fbreakfast-2%2Feggs-cheesy-purgatory%2F&v=1&out=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F30-minute-one-pot-meals-jo-cismaru%2F1123664466%3Fean%3D9781624142482&ref=http%3A%2F%2Fwww.jocooks.com%2F&title=Eggs%20in%20Cheesy%20Purgatory%20-%20Jo%20Cooks&txt=BARNES%20AND%20NOBLE">BARNES AND NOBLE</a> | <a href="http://api.viglink.com/api/click?format=go&jsonp=vglnk_146109615298415&key=605faf2415527d1b203f4b438c5ceea5&libId=in7uhqlx01011sri000DAnt23r2tb&loc=http%3A%2F%2Fwww.jocooks.com%2Fbreakfast-2%2Feggs-cheesy-purgatory%2F&v=1&out=http%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781624142482&ref=http%3A%2F%2Fwww.jocooks.com%2F&title=Eggs%20in%20Cheesy%20Purgatory%20-%20Jo%20Cooks&txt=INDIE%20BOUND">INDIE BOUND</a> | <a href="http://api.viglink.com/api/click?format=go&jsonp=vglnk_146109617005017&key=605faf2415527d1b203f4b438c5ceea5&libId=in7uhqlx01011sri000DAnt23r2tb&loc=http%3A%2F%2Fwww.jocooks.com%2Fbreakfast-2%2Feggs-cheesy-purgatory%2F&v=1&out=http%3A%2F%2Fwww.booksamillion.com%2Fp%2FMinute-One-Pot-Meals%2FJo-Cismaru%2F9781624142482%3Fid%3D6610915126982&ref=http%3A%2F%2Fwww.jocooks.com%2F&title=Eggs%20in%20Cheesy%20Purgatory%20-%20Jo%20Cooks&txt=BOOKS-A-MILLION">BOOKS-A-MILLION</a>
+</div></div></div>
+		</div></section>
+<div class="sidebar-split-left"></div><!-- end #sidebar-split-left--><div class="sidebar-split-right"></div><!-- end #sidebar-split-right--><div class="sidebar-split-bottom"></div><!-- end #sidebar-split-bottom--></aside></div></div></div><div class="widget-before-footer widget-area"><div class="wrap"><section id="text-46" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"></div>
+		</div></section>
+<section id="simple-social-icons-4" class="widget simple-social-icons"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="http://www.facebook.com/JoCooksRecipes" target="_blank"><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-gplus"><a href="https://plus.google.com/+JoCismaru" target="_blank"><svg role="img" class="social-gplus" aria-labelledby="social-gplus"><title id="social-gplus">Google+</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-gplus"></use></svg></a></li><li class="ssi-instagram"><a href="http://instagram.com/jocooks" target="_blank"><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="http://pinterest.com/jocooks" target="_blank"><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/jocooks_com" target="_blank"><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/JoCismaru" target="_blank"><svg role="img" class="social-youtube" aria-labelledby="social-youtube"><title id="social-youtube">YouTube</title><use xlink:href="https://www.jocooks.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-jocooks-container"><ul id="menu-jocooks-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12840"><a href="https://www.jocooks.com/category/recipes/" itemprop="url">Recipes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13705"><a href="http://www.jocooks.com/category/recipes/?fwp_recipes=dinner%2Cone-pot" itemprop="url">One Pot</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14457"><a title="Cookbook" href="http://www.jocooks.com/cookbook/" itemprop="url">Cookbook</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10141"><a href="https://www.jocooks.com/blog/" itemprop="url">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7458"><a href="https://www.jocooks.com/about/" itemprop="url">About Jo</a></li>
+</ul></div></div></section>
+<section id="enews-ext-3" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><p>Get all the latest recipes straight to your inbox</p>
+			<form id="subscribeenews-ext-3" action="//jocooks.us10.list-manage.com/subscribe/post?u=5ba57158846b6743ab030d3cb&amp;id=aba32560a5" method="post"  target="_blank" onsubmit="if ( subbox1.value == 'First Name') { subbox1.value = ''; } if ( subbox2.value == 'Last Name') { subbox2.value = ''; }" name="enews-ext-3">
+				<label for="subbox1" class="screenread">First Name</label><input type="text" id="subbox1" class="enews-subbox" value="" placeholder="First Name" name="FNAME" />				<label for="subbox2" class="screenread">Last Name</label><input type="text" id="subbox2" class="enews-subbox" value="" placeholder="Last Name" name="LNAME" />				<label for="subbox" class="screenread">E-Mail Address</label><input type="email" value="" id="subbox" placeholder="E-Mail Address" name="EMAIL" required="required" />
+								<input type="submit" value="Go" id="subbutton" />
+			</form>
+		</div></div></section>
+</div></div><div class="footer-widgets"><div class="wrap"><div class="widget-area footer-widgets-1 footer-widget-area"><section id="featured-post-44" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">You might also like</h4>
+<!--fwp-loop--><article class="post-15714 post type-post status-publish format-standard has-post-thumbnail category-appetizers category-beef-main-courses category-healthy-eating category-lunch-2 category-recipes tag-coconut-oil tag-ground-beef tag-lettuce tag-peanut-butter tag-red-curry-paste entry"><a href="https://www.jocooks.com/recipes/thai-meatball-lettuce-wraps/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/10/thai-meatball-lettuce-wraps-1-6-400x600.jpg" class="entry-image attachment-post" alt="Thai Meatball Lettuce Wraps" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/thai-meatball-lettuce-wraps/">Thai Meatball Lettuce Wraps</a></h2></header></article><article class="post-15751 post type-post status-publish format-standard has-post-thumbnail category-dinner category-one-pot category-poultry-main-courses category-recipes tag-gnocchi tag-half-and-half tag-spinach tag-sun-dried-tomatoes entry"><a href="https://www.jocooks.com/recipes/one-pot-chicken-florentine-gnocchi/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/10/one-pot-chicken-florentine-gnocchi-1-7-400x600.jpg" class="entry-image attachment-post" alt="One Pot Chicken Florentine Gnocchi" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/one-pot-chicken-florentine-gnocchi/">One Pot Chicken Florentine Gnocchi</a></h2></header></article><article class="post-10933 post type-post status-publish format-standard has-post-thumbnail category-dinner category-healthy-eating category-poultry-main-courses category-recipes tag-chicken tag-drumsticks tag-garlic tag-oregano tag-paprika tag-smoked-paprika entry"><a href="https://www.jocooks.com/recipes/garlic-and-paprika-chicken/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2015/08/garlic-paprika-chicken-1-400x600.jpg" class="entry-image attachment-post" alt="Garlic and Paprika Chicken" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/garlic-and-paprika-chicken/">Garlic and Paprika Chicken</a></h2></header></article><article class="post-15711 post type-post status-publish format-standard has-post-thumbnail category-dinner category-featured category-healthy-eating category-instant-pot category-poultry-main-courses category-recipes tag-chicken tag-chicken-thighs tag-garlic-sauce tag-hummus tag-instant-pot entry"><a href="https://www.jocooks.com/recipes/instant-pot-chicken-shawarma/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/10/instant-pot-chicken-shawarma-1-3-400x600.jpg" class="entry-image attachment-post" alt="Instant Pot Chicken Shawarma" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/instant-pot-chicken-shawarma/">Instant Pot Chicken Shawarma</a></h2></header></article><article class="post-15695 post type-post status-publish format-standard has-post-thumbnail category-dinner category-instant-pot category-pork-main-courses category-recipes tag-baby-back-ribs tag-bbq tag-bbq-sauce tag-instant-pot tag-pork-ribs entry"><a href="https://www.jocooks.com/recipes/instant-pot-bbq-pork-ribs/" class="aligncenter" aria-hidden="true"><img width="400" height="600" src="https://www.jocooks.com/wp-content/uploads/2017/10/instant-pot-bbq-pork-ribs-1-4-400x600.jpg" class="entry-image attachment-post" alt="Instant Pot BBQ Pork Ribs" itemprop="image" /></a><header class="entry-header"><h2 class="entry-title" itemprop="headline"><a href="https://www.jocooks.com/recipes/instant-pot-bbq-pork-ribs/">Instant Pot BBQ Pork Ribs</a></h2></header></article></div></section>
+</div></div></div><footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap"><div class="creds"><p>Copyright &copy; 2017 &middot; <a target="_blank" href="http://restored316designs.com/themes">Divine theme</a> by <a target="_blank" href="http://www.restored316designs.com">Restored 316</a> | Logo + Site Design by <a target="_blank" href="http://www.sweetsouthernmedia.com">Courtney @ Sweet Southern Media</a> | <a target="_blank" href="http://www.jocooks.com/privacy-policy/">Privacy Policy</a> | <a target="_blank" href="http://www.jocooks.com/lets-work-together/">Work With Me</a></p></div><p></p></div></footer><script type='text/javascript'>jQuery(document).ready(function($) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "fade",directionNav: 0,controlNav: 1,animationDuration: 800,slideshowSpeed: 4000    });  });</script><!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><div id="om-t5hni4v3ak1kxxqv-holder"></div><script>var t5hni4v3ak1kxxqv,t5hni4v3ak1kxxqv_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){t5hni4v3ak1kxxqv_poll(function(){if(window['om_loaded']){if(!t5hni4v3ak1kxxqv){t5hni4v3ak1kxxqv=new OptinMonsterApp();return t5hni4v3ak1kxxqv.init({"u":"9058.184200","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;t5hni4v3ak1kxxqv=new OptinMonsterApp();t5hni4v3ak1kxxqv.init({"u":"9058.184200","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster -->		<script type="text/javascript">var t5hni4v3ak1kxxqv_shortcode = true;</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var wprm_public = {"settings":{"features_comment_ratings":true},"home_url":"https:\/\/www.jocooks.com\/","ajax_url":"https:\/\/www.jocooks.com\/wp-admin\/admin-ajax.php","nonce":"e39d79079d"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.jocooks.com/wp-content/plugins/wp-recipe-maker/assets/js/public.js?ver=1.24.0'></script>
+<script type='text/javascript' src='https://www.jocooks.com/wp-content/plugins/wp-recipe-maker/vendor/tooltipster/js/tooltipster.bundle.min.js?ver=1.24.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wprmp_public = {"settings":{"features_adjustable_servings":true,"features_user_ratings":true,"servings_changer_display":"tooltip_slider","template_ingredient_list_style":"disc","template_instruction_list_style":"decimal","template_color_icon":"#343434"}};
+var wprmp_timer = {"text":{"start_timer":"Click to Start Timer"},"icons":{"pause":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M9,2H4C3.4,2,3,2.4,3,3v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C10,2.4,9.6,2,9,2z\"\/><path fill=\"#fffefe\" d=\"M20,2h-5c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C21,2.4,20.6,2,20,2z\"\/><\/g><\/svg>","play":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M6.6,2.2C6.3,2,5.9,1.9,5.6,2.1C5.2,2.3,5,2.6,5,3v18c0,0.4,0.2,0.7,0.6,0.9C5.7,22,5.8,22,6,22c0.2,0,0.4-0.1,0.6-0.2l12-9c0.3-0.2,0.4-0.5,0.4-0.8s-0.1-0.6-0.4-0.8L6.6,2.2z\"\/><\/g><\/svg>","close":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M22.7,4.3l-3-3c-0.4-0.4-1-0.4-1.4,0L12,7.6L5.7,1.3c-0.4-0.4-1-0.4-1.4,0l-3,3c-0.4,0.4-0.4,1,0,1.4L7.6,12l-6.3,6.3c-0.4,0.4-0.4,1,0,1.4l3,3c0.4,0.4,1,0.4,1.4,0l6.3-6.3l6.3,6.3c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3l3-3c0.4-0.4,0.4-1,0-1.4L16.4,12l6.3-6.3C23.1,5.3,23.1,4.7,22.7,4.3z\"\/><\/g><\/svg>"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.jocooks.com/wp-content/plugins/wp-recipe-maker-premium/assets/js/public.js?ver=1.6.0'></script>
+<script type='text/javascript' src='https://www.jocooks.com/wp-content/plugins/wp-recipe-maker-premium-unit-conversion/assets/js/public/unit-conversion.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.jocooks.com/wp-content/plugins/social-warfare/js/script.min.js?ver=2.3.3'></script>
+<script type='text/javascript' src='https://www.jocooks.com/wp-content/plugins/genesis-responsive-slider/js/jquery.flexslider.js?ver=0.9.5'></script>
+<script type='text/javascript' src='https://www.jocooks.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+<script type="text/javascript"> swpPinIt={"enabled":false};var swpClickTracking = true; var swp_nonce = "64beb794b3";</script>		<script type="text/javascript">var omapi_localized = { ajax: 'https://www.jocooks.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '2c38961386', slugs: {"t5hni4v3ak1kxxqv":{"slug":"t5hni4v3ak1kxxqv","mailpoet":false}} };</script>
+		</body></html>
+
+<!-- Cached page for great performance - Debug: cached@1509476048 -->
